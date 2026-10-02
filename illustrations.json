@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ill-meme",
+    "file": "illustrations/meme.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 자조/밈",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-reality",
+    "file": "illustrations/reality.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 현실",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-work",
+    "file": "illustrations/work.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 직장",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-money",
+    "file": "illustrations/money.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 돈",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-love",
+    "file": "illustrations/love.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 연애",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-life",
+    "file": "illustrations/life.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 인생",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-real",
+    "file": "illustrations/real.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 리얼 표현",
+    "modified": false,
+    "usage": "category"
+  },
+  {
+    "id": "ill-today",
+    "file": "illustrations/today.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 오늘의 한마디",
+    "modified": false,
+    "usage": "today"
+  },
+  {
+    "id": "ill-empty",
+    "file": "illustrations/empty.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 빈 화면",
+    "modified": false,
+    "usage": "empty-state"
+  },
+  {
+    "id": "ill-error",
+    "file": "illustrations/error.png",
+    "origin": "own",
+    "sourceUrl": null,
+    "title": "플레이스홀더 · 오류",
+    "modified": false,
+    "usage": "error"
+  }
+]

@@ -1,0 +1,9 @@
+[
+  {"id": "meme",    "nameKo": "자조/밈",   "emoji": "🤡", "illustrationId": "ill-meme",    "order": 1},
+  {"id": "reality", "nameKo": "현실",      "emoji": "😮‍💨", "illustrationId": "ill-reality", "order": 2},
+  {"id": "work",    "nameKo": "직장",      "emoji": "🧑‍💼", "illustrationId": "ill-work",    "order": 3},
+  {"id": "money",   "nameKo": "돈",        "emoji": "💸", "illustrationId": "ill-money",   "order": 4},
+  {"id": "love",    "nameKo": "연애",      "emoji": "❤️", "illustrationId": "ill-love",    "order": 5},
+  {"id": "life",    "nameKo": "인생",      "emoji": "🫠", "illustrationId": "ill-life",    "order": 6},
+  {"id": "real",    "nameKo": "리얼 표현", "emoji": "🗣️", "illustrationId": "ill-real",    "order": 7}
+]
