@@ -549,5 +549,39 @@
     "featuredDates": [],
     "createdAt": "2026-10-02",
     "status": "published"
+  },
+  {
+    "id": "work-004",
+    "tokens": [{"t": "残業", "r": "ざんぎょう"}, {"t": "はしたくない。"}],
+    "korean": "야근은 하기 싫다.",
+    "literal": null,
+    "punchline": "원격 업데이트 테스트용 한마디.",
+    "category": "work",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": "동기끼리만. 상사에게는 「今日は早めに失礼します」.",
+    "keywords": ["야근", "회사"],
+    "words": [
+      {"word": "残業", "reading": "ざんぎょう", "meaning": "야근, 잔업", "note": null},
+      {"word": "する", "reading": "する", "meaning": "하다", "note": null}
+    ],
+    "grammarIds": ["tai"],
+    "nuance": "～たくない로 '하기 싫다'는 마음을 그대로 드러냅니다.",
+    "memoTip": null,
+    "examples": [
+      {
+        "tokens": [{"t": "働", "r": "はたら"}, {"t": "きたくない。"}],
+        "korean": "일하기 싫다."
+      },
+      {
+        "tokens": [{"t": "今日", "r": "きょう"}, {"t": "は"}, {"t": "残業", "r": "ざんぎょう"}, {"t": "です。"}],
+        "korean": "오늘은 야근입니다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-03",
+    "status": "published"
   }
 ]
