@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
+  "contentVersion": 2,
   "updatedAt": "2026-10-03",
   "minAppVersion": "1.0.0",
   "files": ["phrases.json", "grammar.json", "categories.json", "illustrations.json"]
