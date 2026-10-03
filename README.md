@@ -13,8 +13,12 @@ section 6–7 in the app repo).
 2. Bump `contentVersion` in `manifest.json` (must be higher than the version
    in use, or apps ignore the pack).
 3. Validate in the app repo: copy the JSON files into its `assets/data/`
-   and run `dart run tool/validate_content.dart` (it also checks that every
-   illustration file exists; remote packs never carry images).
+   and run `dart run tool/validate_content.dart --update-hashes`. This writes
+   the SHA-256 of every file into `manifest.json` (`sha256`), then validates.
+   Copy the updated `manifest.json` back here. Apps store a downloaded pack
+   only if every file matches its hash, so a half-published push (new
+   manifest, old files, which raw.githubusercontent.com serves for a few
+   minutes) is ignored and retried later (app decision D-021).
 4. Push to `dev`, check on a dev build, then merge to `main`.
 
 Apps check at most every 12 hours and use a new pack from the next cold start.
