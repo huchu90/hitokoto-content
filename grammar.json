@@ -166,5 +166,401 @@
       {"ja": "思ったより高い。", "ko": "생각보다 비싸다."},
       {"ja": "昨日より寒い。", "ko": "어제보다 춥다."}
     ]
+  },
+  {
+    "id": "na-adj-noun",
+    "pattern": "～な + 명사",
+    "form": "な형용사 어간 + な + 명사",
+    "meaning": "~한 ○○",
+    "jlpt": "N5",
+    "explanation": "명사 앞에서 な가 나타나서 이름이 な형용사예요.",
+    "examples": [
+      {"ja": "好きな人。", "ko": "좋아하는 사람."}
+    ]
+  },
+  {
+    "id": "i-adj",
+    "pattern": "い형용사",
+    "form": "い형용사 기본형",
+    "meaning": "~하다",
+    "jlpt": "N5",
+    "explanation": "い형용사는 기본형만으로 반말 문장이 완성돼요.",
+    "examples": [
+      {"ja": "眠い。", "ko": "졸리다."}
+    ]
+  },
+  {
+    "id": "verb-no",
+    "pattern": "～のが / ～のって",
+    "form": "동사 사전형 + の",
+    "meaning": "~하는 것",
+    "jlpt": "N4",
+    "explanation": "동사 뒤에 の를 붙이면 명사처럼 쓸 수 있어요. のって는 회화체 '~하는 건'.",
+    "examples": [
+      {"ja": "寝るのが好き。", "ko": "자는 게 좋아."}
+    ]
+  },
+  {
+    "id": "te-form",
+    "pattern": "～て (연결)",
+    "form": "동사 て형",
+    "meaning": "~하고, ~해서",
+    "jlpt": "N5",
+    "explanation": "문장을 이어 붙이는 만능 접착제. 순서, 이유, 방법을 다 나타내요.",
+    "examples": [
+      {"ja": "起きて、顔を洗う。", "ko": "일어나서 세수한다."}
+    ]
+  },
+  {
+    "id": "yagaru",
+    "pattern": "～やがる",
+    "form": "동사 ます형 + やがる",
+    "meaning": "(얕잡아) ~하네",
+    "jlpt": "N2",
+    "explanation": "상대 행동을 깔보는 거친 말이에요. 사람에게 쓰면 싸움 나니 주의.",
+    "examples": [
+      {"ja": "笑いやがって。", "ko": "웃고 자빠졌네."}
+    ]
+  },
+  {
+    "id": "n-darou",
+    "pattern": "～んだろう",
+    "form": "보통형 + んだろう",
+    "meaning": "~하는 걸까",
+    "jlpt": "N3",
+    "explanation": "이유를 모를 때 하는 혼잣말. 한탄할 때 딱이에요.",
+    "examples": [
+      {"ja": "どうしてなんだろう。", "ko": "왜일까."}
+    ]
+  },
+  {
+    "id": "mitai",
+    "pattern": "～みたい",
+    "form": "명사 + みたい(な/だ)",
+    "meaning": "~같은, ~같다",
+    "jlpt": "N4",
+    "explanation": "비유할 때 쓰는 회화체. 명사 앞에서는 みたいな.",
+    "examples": [
+      {"ja": "夢みたい。", "ko": "꿈 같아."}
+    ]
+  },
+  {
+    "id": "kana",
+    "pattern": "～かな",
+    "form": "보통형 + かな",
+    "meaning": "~하려나, ~할까",
+    "jlpt": "N4",
+    "explanation": "확신 없는 혼잣말. 희망이 섞여 있어요.",
+    "examples": [
+      {"ja": "行こうかな。", "ko": "갈까."}
+    ]
+  },
+  {
+    "id": "te-kure",
+    "pattern": "～てくれ",
+    "form": "동사 て형 + くれ",
+    "meaning": "~해 줘 (거친 말)",
+    "jlpt": "N4",
+    "explanation": "てください의 반말, 거친 버전. 주로 남자 말투.",
+    "examples": [
+      {"ja": "助けてくれ。", "ko": "살려 줘."}
+    ]
+  },
+  {
+    "id": "mama",
+    "pattern": "～たまま",
+    "form": "동사 た형 + まま",
+    "meaning": "~한 채로",
+    "jlpt": "N3",
+    "explanation": "어떤 상태를 그대로 둔 채 다른 일을 할 때.",
+    "examples": [
+      {"ja": "窓を開けたまま出かけた。", "ko": "창문을 연 채로 나갔다."}
+    ]
+  },
+  {
+    "id": "ba-iinoni",
+    "pattern": "～ばいいのに",
+    "form": "동사 ば형 + いいのに",
+    "meaning": "~하면 좋을 텐데",
+    "jlpt": "N3",
+    "explanation": "바람을 말하지만, 남에게 쓰면 은근한 불만이나 저주가 돼요.",
+    "examples": [
+      {"ja": "もっと休めばいいのに。", "ko": "좀 더 쉬면 좋을 텐데."}
+    ]
+  },
+  {
+    "id": "teta",
+    "pattern": "～てた",
+    "form": "동사 て형 + た (ていた의 축약)",
+    "meaning": "~하고 있었다",
+    "jlpt": "N4",
+    "explanation": "회화에서는 ていた의 い를 자주 빼요.",
+    "examples": [
+      {"ja": "寝てた。", "ko": "자고 있었어."}
+    ]
+  },
+  {
+    "id": "na-prohibition",
+    "pattern": "～な (금지)",
+    "form": "동사 사전형 + な",
+    "meaning": "~하지 마",
+    "jlpt": "N4",
+    "explanation": "짧고 강한 금지. 꽤 세게 들려서 친한 사이나 혼잣말에만.",
+    "examples": [
+      {"ja": "触るな。", "ko": "만지지 마."}
+    ]
+  },
+  {
+    "id": "bakari",
+    "pattern": "～ばかり",
+    "form": "명사 / 동사 て형 + ばかり",
+    "meaning": "~만, ~하기만",
+    "jlpt": "N3",
+    "explanation": "'그것만'에 '지나치게'라는 불만이 섞여요.",
+    "examples": [
+      {"ja": "遊んでばかりいる。", "ko": "놀기만 한다."}
+    ]
+  },
+  {
+    "id": "ta-past",
+    "pattern": "～た",
+    "form": "동사 た형",
+    "meaning": "~했다",
+    "jlpt": "N5",
+    "explanation": "반말 과거형. 일기나 혼잣말에 가장 많이 써요.",
+    "examples": [
+      {"ja": "食べた。", "ko": "먹었다."}
+    ]
+  },
+  {
+    "id": "te-mo",
+    "pattern": "～ても",
+    "form": "동사 て형 + も",
+    "meaning": "~해도",
+    "jlpt": "N4",
+    "explanation": "'~해도 소용없다'는 느낌. 두 번 반복하면 '아무리 ~해도'.",
+    "examples": [
+      {"ja": "雨が降っても行く。", "ko": "비가 와도 간다."}
+    ]
+  },
+  {
+    "id": "ta-shunkan",
+    "pattern": "～た瞬間",
+    "form": "동사 た형 + 瞬間",
+    "meaning": "~한 순간",
+    "jlpt": "N3",
+    "explanation": "어떤 일이 일어난 바로 그때.",
+    "examples": [
+      {"ja": "見た瞬間、笑った。", "ko": "본 순간 웃었다."}
+    ]
+  },
+  {
+    "id": "sugiru",
+    "pattern": "～すぎる",
+    "form": "동사 ます형 / 형용사 어간 + すぎる",
+    "meaning": "너무 ~하다",
+    "jlpt": "N4",
+    "explanation": "도를 넘었을 때. 회화에서는 すぎ로 끊기도 해요.",
+    "examples": [
+      {"ja": "食べすぎた。", "ko": "과식했다."}
+    ]
+  },
+  {
+    "id": "tara",
+    "pattern": "～たら",
+    "form": "동사 た형 + ら",
+    "meaning": "~하면, ~하고 나면",
+    "jlpt": "N4",
+    "explanation": "조건이나 '~한 다음에'를 나타내요.",
+    "examples": [
+      {"ja": "着いたら電話して。", "ko": "도착하면 전화해."}
+    ]
+  },
+  {
+    "id": "potential",
+    "pattern": "가능형",
+    "form": "1그룹: う단 → え단 + る / 2그룹: る → られる",
+    "meaning": "~할 수 있다",
+    "jlpt": "N4",
+    "explanation": "할 수 있다, 없다를 말할 때. 부정형이 핑계에 자주 쓰여요.",
+    "examples": [
+      {"ja": "泳げる。", "ko": "수영할 수 있다."}
+    ]
+  },
+  {
+    "id": "n-desu-ka",
+    "pattern": "～んですか",
+    "form": "보통형 + んですか",
+    "meaning": "~인 거예요?",
+    "jlpt": "N4",
+    "explanation": "상황 설명을 요구하는 질문. 놀람이나 따짐이 묻어나요.",
+    "examples": [
+      {"ja": "帰るんですか？", "ko": "가시는 거예요?"}
+    ]
+  },
+  {
+    "id": "rashii",
+    "pattern": "～らしい",
+    "form": "보통형 + らしい",
+    "meaning": "~라고 한다",
+    "jlpt": "N4",
+    "explanation": "들은 이야기를 전할 때. 내 생각은 아니라는 거리감이 있어요.",
+    "examples": [
+      {"ja": "雨らしい。", "ko": "비 온대."}
+    ]
+  },
+  {
+    "id": "nakya",
+    "pattern": "～なきゃ",
+    "form": "동사 ない형 + なきゃ",
+    "meaning": "~해야 해",
+    "jlpt": "N3",
+    "explanation": "なければならない의 회화체. 말로만 하는 의무감에 딱.",
+    "examples": [
+      {"ja": "勉強しなきゃ。", "ko": "공부해야 해."}
+    ]
+  },
+  {
+    "id": "sentence-na",
+    "pattern": "～な (종조사)",
+    "form": "문장 끝 + な",
+    "meaning": "~네, ~지",
+    "jlpt": "N4",
+    "explanation": "혼잣말 감탄이나 맞장구. だよな는 동의를 구하는 말.",
+    "examples": [
+      {"ja": "寒いな。", "ko": "춥네."}
+    ]
+  },
+  {
+    "id": "te-hoshii",
+    "pattern": "～てほしい",
+    "form": "동사 て형 + ほしい",
+    "meaning": "~해 줬으면 좋겠다",
+    "jlpt": "N3",
+    "explanation": "남이나 상황에게 바라는 것. 내 의지로 안 되는 일에 써요.",
+    "examples": [
+      {"ja": "早く来てほしい。", "ko": "빨리 와 줬으면 좋겠어."}
+    ]
+  },
+  {
+    "id": "ni-kurabete",
+    "pattern": "～に比べて",
+    "form": "명사 + に比べて",
+    "meaning": "~에 비해",
+    "jlpt": "N3",
+    "explanation": "두 가지를 비교할 때. 불만 말할 때 특히 유용해요.",
+    "examples": [
+      {"ja": "去年に比べて寒い。", "ko": "작년에 비해 춥다."}
+    ]
+  },
+  {
+    "id": "node",
+    "pattern": "～ので",
+    "form": "보통형 + ので (명사·な형용사는 なので)",
+    "meaning": "~니까, ~라서",
+    "jlpt": "N4",
+    "explanation": "から보다 부드럽고 정중한 이유 표현.",
+    "examples": [
+      {"ja": "雨なので休みます。", "ko": "비가 와서 쉬겠습니다."}
+    ]
+  },
+  {
+    "id": "te-mo-ii",
+    "pattern": "～てもいい",
+    "form": "동사 て형 + もいい",
+    "meaning": "~해도 된다",
+    "jlpt": "N4",
+    "explanation": "허락. 질문형 「〜てもいいですか」는 매일 쓰는 표현.",
+    "examples": [
+      {"ja": "帰ってもいいですか？", "ko": "가도 돼요?"}
+    ]
+  },
+  {
+    "id": "nara",
+    "pattern": "～なら",
+    "form": "보통형 + なら",
+    "meaning": "~라면, ~할 거면",
+    "jlpt": "N4",
+    "explanation": "상대 말이나 상황을 받아서 '그렇다면'.",
+    "examples": [
+      {"ja": "行くなら教えて。", "ko": "갈 거면 알려 줘."}
+    ]
+  },
+  {
+    "id": "deshou",
+    "pattern": "～でしょう",
+    "form": "보통형 + でしょう",
+    "meaning": "~겠죠, ~일 거예요",
+    "jlpt": "N4",
+    "explanation": "추측. 남 일처럼 태연하게 말할 때 딱.",
+    "examples": [
+      {"ja": "たぶん大丈夫でしょう。", "ko": "아마 괜찮겠죠."}
+    ]
+  },
+  {
+    "id": "sentence-ne",
+    "pattern": "～ね (종조사)",
+    "form": "문장 끝 + ね",
+    "meaning": "~네, ~지요",
+    "jlpt": "N5",
+    "explanation": "상대에게 공감을 구하거나 가볍게 감탄할 때.",
+    "examples": [
+      {"ja": "いい天気ですね。", "ko": "날씨 좋네요."}
+    ]
+  },
+  {
+    "id": "desuwa",
+    "pattern": "～ですわ",
+    "form": "문장 + ですわ",
+    "meaning": "~랍니다, ~네요 (아가씨 말투)",
+    "jlpt": "N3",
+    "explanation": "만화 속 부잣집 아가씨 말투. 실제 대화에서는 캐릭터 연기로 들려요.",
+    "examples": [
+      {"ja": "結構ですわ。", "ko": "됐어요."}
+    ]
+  },
+  {
+    "id": "naide",
+    "pattern": "～ないで",
+    "form": "동사 ない형 + で",
+    "meaning": "~하지 마",
+    "jlpt": "N4",
+    "explanation": "부드러운 금지나 부탁. ください를 붙이면 정중해져요.",
+    "examples": [
+      {"ja": "行かないで。", "ko": "가지 마."}
+    ]
+  },
+  {
+    "id": "ni-wa",
+    "pattern": "～には",
+    "form": "동사 사전형 + には",
+    "meaning": "~하기에는, ~하려면",
+    "jlpt": "N3",
+    "explanation": "목적을 위해 필요한 조건이나 기준을 말할 때.",
+    "examples": [
+      {"ja": "合格するには勉強が必要だ。", "ko": "합격하려면 공부가 필요하다."}
+    ]
+  },
+  {
+    "id": "ni-kansuru",
+    "pattern": "～に関する",
+    "form": "명사 + に関する + 명사",
+    "meaning": "~에 관한",
+    "jlpt": "N3",
+    "explanation": "공지문이나 뉴스에 자주 나오는 딱딱한 표현.",
+    "examples": [
+      {"ja": "健康に関するニュース。", "ko": "건강에 관한 뉴스."}
+    ]
+  },
+  {
+    "id": "casual-question",
+    "pattern": "반말 의문",
+    "form": "보통형 + ？ (끝을 올려서)",
+    "meaning": "~해?",
+    "jlpt": "N5",
+    "explanation": "반말에서는 か 없이 끝만 올리면 질문이 돼요.",
+    "examples": [
+      {"ja": "行く？", "ko": "갈래?"}
+    ]
   }
 ]

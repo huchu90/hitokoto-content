@@ -549,5 +549,1926 @@
     "featuredDates": [],
     "createdAt": "2026-10-02",
     "status": "published"
+  },
+  {
+    "id": "reality-101",
+    "tokens": [{"t": "正直", "r": "しょうじき"}, {"t": "、あの"}, {"t": "教授", "r": "きょうじゅ"}, {"t": "は"}, {"t": "苦手", "r": "にがて"}, {"t": "です。"}],
+    "korean": "솔직히 그 교수님은 좀 별로예요.",
+    "literal": "솔직히, 그 교수는 거북해요.",
+    "punchline": "학점 나오기 전까지는 속으로만.",
+    "category": "reality",
+    "jlpt": "N4",
+    "politeness": "polite",
+    "usageNote": "교수님 연구실 근처에서는 말하지 마세요.",
+    "keywords": [],
+    "words": [
+      {"word": "正直", "reading": "しょうじき", "meaning": "솔직히", "note": "문장 앞에 쓰면 '솔직히 말하면'"},
+      {"word": "教授", "reading": "きょうじゅ", "meaning": "교수", "note": null},
+      {"word": "苦手", "reading": "にがて", "meaning": "거북함, 잘 못함", "note": "な형용사"}
+    ],
+    "grammarIds": ["desu"],
+    "nuance": "苦手는 '싫다'를 돌려 말하는 단어예요. 嫌い보다 부드럽지만, 正直로 시작하면 속마음이 다 드러나요.",
+    "memoTip": "苦手 = 서툴다 / 거북하다. 数学が苦手 = 수학을 못한다.",
+    "examples": [
+      {
+        "tokens": [{"t": "数学", "r": "すうがく"}, {"t": "が"}, {"t": "苦手", "r": "にがて"}, {"t": "です。"}],
+        "korean": "수학을 잘 못해요."
+      },
+      {
+        "tokens": [{"t": "辛", "r": "から"}, {"t": "いものが"}, {"t": "苦手", "r": "にがて"}, {"t": "です。"}],
+        "korean": "매운 걸 잘 못 먹어요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-101",
+    "tokens": [{"t": "休", "r": "やす"}, {"t": "みの"}, {"t": "日", "r": "ひ"}, {"t": "は"}, {"t": "寝転", "r": "ねころ"}, {"t": "がるのが"}, {"t": "仕事", "r": "しごと"}, {"t": "です。"}],
+    "korean": "쉬는 날엔 드러눕는 게 일이에요.",
+    "literal": null,
+    "punchline": "이력서 경력란엔 못 쓰는 진짜 업무.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "회사에서 주말 계획을 물으면 「ゆっくりします」 정도로.",
+    "keywords": [],
+    "words": [
+      {"word": "休みの日", "reading": "やすみのひ", "meaning": "쉬는 날", "note": null},
+      {"word": "寝転がる", "reading": "ねころがる", "meaning": "드러눕다, 뒹굴다", "note": null},
+      {"word": "仕事", "reading": "しごと", "meaning": "일, 업무", "note": null}
+    ],
+    "grammarIds": ["verb-no"],
+    "nuance": "寝転がる는 잠은 안 자고 그냥 드러누워 있는 상태예요. 그걸 仕事(업무)라고 부르는 진지함이 포인트.",
+    "memoTip": "뒹굴뒹굴은 ごろごろ. 「休みの日はごろごろしてる」도 같이 기억하세요.",
+    "examples": [
+      {
+        "tokens": [{"t": "歌", "r": "うた"}, {"t": "うのが"}, {"t": "好", "r": "す"}, {"t": "きです。"}],
+        "korean": "노래하는 게 좋아요."
+      },
+      {
+        "tokens": [{"t": "走", "r": "はし"}, {"t": "るのが"}, {"t": "苦手", "r": "にがて"}, {"t": "です。"}],
+        "korean": "달리기는 잘 못해요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-101",
+    "tokens": [{"t": "給料日", "r": "きゅうりょうび"}, {"t": "前", "r": "まえ"}, {"t": "で、ほぼ"}, {"t": "一文無", "r": "いちもんな"}, {"t": "しです。"}],
+    "korean": "월급날 전이라 거의 빈털터리예요.",
+    "literal": null,
+    "punchline": "통장 잔고가 일본어 실력보다 낮습니다.",
+    "category": "money",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "정중체라 회사 동료에게 농담으로 해도 괜찮아요.",
+    "keywords": [],
+    "words": [
+      {"word": "給料日", "reading": "きゅうりょうび", "meaning": "월급날", "note": null},
+      {"word": "ほぼ", "reading": "ほぼ", "meaning": "거의", "note": null},
+      {"word": "一文無し", "reading": "いちもんなし", "meaning": "빈털터리, 무일푼", "note": "一文 = 옛날 가장 작은 돈 단위"}
+    ],
+    "grammarIds": ["desu"],
+    "nuance": "「お金がない」보다 훨씬 궁핍한 느낌. 동전 한 닢조차 없다는 뜻이에요. 給料日前で의 で는 '~라서'.",
+    "memoTip": "一文(한 푼)이 無し(없음) → 빈털터리.",
+    "examples": [
+      {
+        "tokens": [{"t": "今月", "r": "こんげつ"}, {"t": "はほぼ"}, {"t": "一文無", "r": "いちもんな"}, {"t": "しです。"}],
+        "korean": "이번 달은 거의 빈털터리예요."
+      },
+      {
+        "tokens": [{"t": "財布", "r": "さいふ"}, {"t": "がほぼ"}, {"t": "空", "r": "から"}, {"t": "です。"}],
+        "korean": "지갑이 거의 비었어요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-101",
+    "tokens": [{"t": "そろそろ"}, {"t": "恋愛", "r": "れんあい"}, {"t": "がしたいです。"}],
+    "korean": "슬슬 연애가 하고 싶어요.",
+    "literal": null,
+    "punchline": "하지만 주말엔 집에서 안 나감.",
+    "category": "love",
+    "jlpt": "N4",
+    "politeness": "polite",
+    "usageNote": "친구에게는 「彼氏ほしい〜」가 더 자연스러워요.",
+    "keywords": [],
+    "words": [
+      {"word": "そろそろ", "reading": "そろそろ", "meaning": "슬슬", "note": null},
+      {"word": "恋愛", "reading": "れんあい", "meaning": "연애", "note": null},
+      {"word": "する", "reading": "する", "meaning": "하다", "note": "したい = する + たい"}
+    ],
+    "grammarIds": ["tai"],
+    "nuance": "恋愛する는 살짝 딱딱하고 거창한 말이에요. そろそろ까지 붙이면 계획은 있는데 실천은 없는 사람이 완성돼요.",
+    "memoTip": "恋(こい)는 감정, 恋愛(れんあい)는 활동.",
+    "examples": [
+      {
+        "tokens": [{"t": "彼女", "r": "かのじょ"}, {"t": "がほしいです。"}],
+        "korean": "여자친구가 갖고 싶어요."
+      },
+      {
+        "tokens": [{"t": "旅行", "r": "りょこう"}, {"t": "がしたいです。"}],
+        "korean": "여행이 하고 싶어요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-101",
+    "tokens": [{"t": "働", "r": "はたら"}, {"t": "かずに"}, {"t": "給料", "r": "きゅうりょう"}, {"t": "だけもらいたい。"}],
+    "korean": "일 안 하고 월급만 받고 싶다.",
+    "literal": "일하지 않고 월급만 받고 싶다.",
+    "punchline": "인류의 영원한 소망입니다.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": "면접에서 말하면 바로 탈락.",
+    "keywords": [],
+    "words": [
+      {"word": "働く", "reading": "はたらく", "meaning": "일하다", "note": null},
+      {"word": "給料", "reading": "きゅうりょう", "meaning": "월급, 급여", "note": null},
+      {"word": "もらう", "reading": "もらう", "meaning": "받다", "note": null}
+    ],
+    "grammarIds": ["tai"],
+    "nuance": "ずに는 ないで의 조금 딱딱한 버전으로 '~하지 않고'. だけ(~만)가 욕심을 더 선명하게 만들어요.",
+    "memoTip": "〜ずに = 〜ないで. する는 せずに.",
+    "examples": [
+      {
+        "tokens": [{"t": "何", "r": "なに"}, {"t": "もせずに"}, {"t": "休", "r": "やす"}, {"t": "みたい。"}],
+        "korean": "아무것도 안 하고 쉬고 싶다."
+      },
+      {
+        "tokens": [{"t": "早", "r": "はや"}, {"t": "く"}, {"t": "給料", "r": "きゅうりょう"}, {"t": "もらいたい。"}],
+        "korean": "빨리 월급 받고 싶다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-102",
+    "tokens": [{"t": "クセの"}, {"t": "強", "r": "つよ"}, {"t": "い"}, {"t": "人", "r": "ひと"}, {"t": "たちの"}, {"t": "相手", "r": "あいて"}, {"t": "をして、くたくただ。"}],
+    "korean": "개성 강한 사람들 상대하느라 녹초가 됐다.",
+    "literal": null,
+    "punchline": "퇴근길 지하철에서 짓는 그 표정.",
+    "category": "work",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": "그 사람들 앞에서는 말하지 마세요.",
+    "keywords": [],
+    "words": [
+      {"word": "クセが強い", "reading": "くせがつよい", "meaning": "개성이 강하다, 별나다", "note": null},
+      {"word": "相手をする", "reading": "あいてをする", "meaning": "상대하다, 응대하다", "note": null},
+      {"word": "くたくた", "reading": "くたくた", "meaning": "녹초가 됨", "note": null}
+    ],
+    "grammarIds": ["te-form"],
+    "nuance": "クセが強い는 '별나다'를 돌려 말하는 표현이에요. 相手をする에는 하기 싫은데 응대해 줬다는 피로감이 묻어 있어요.",
+    "memoTip": "くたくた = 몸이 축 늘어질 만큼 지친 상태.",
+    "examples": [
+      {
+        "tokens": [{"t": "一日中", "r": "いちにちじゅう"}, {"t": "働", "r": "はたら"}, {"t": "いて、"}, {"t": "疲", "r": "つか"}, {"t": "れた。"}],
+        "korean": "하루 종일 일해서 지쳤다."
+      },
+      {
+        "tokens": [{"t": "雨", "r": "あめ"}, {"t": "が"}, {"t": "降", "r": "ふ"}, {"t": "って、"}, {"t": "寒", "r": "さむ"}, {"t": "かった。"}],
+        "korean": "비가 와서 추웠다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-102",
+    "tokens": [{"t": "月曜日", "r": "げつようび"}, {"t": "め、"}, {"t": "今週", "r": "こんしゅう"}, {"t": "も"}, {"t": "来", "r": "き"}, {"t": "やがった。"}],
+    "korean": "월요일 이 녀석, 이번 주도 왔네.",
+    "literal": "월요일 놈, 이번 주도 와 버렸다.",
+    "punchline": "매주 오는데 매주 처음 맞는 느낌.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": "사람한테 쓰면 싸움 나요. 월요일한테만 쓰세요.",
+    "keywords": [],
+    "words": [
+      {"word": "月曜日", "reading": "げつようび", "meaning": "월요일", "note": null},
+      {"word": "今週", "reading": "こんしゅう", "meaning": "이번 주", "note": null},
+      {"word": "来る", "reading": "くる", "meaning": "오다", "note": "ます형은 き"}
+    ],
+    "grammarIds": ["yagaru"],
+    "nuance": "め는 상대를 깔보는 접미사, やがる는 행동을 깔보는 거친 말이에요. 월요일을 원수 취급하는 말투.",
+    "memoTip": "来る의 ます형은 き → 来やがる(きやがる).",
+    "examples": [
+      {
+        "tokens": [{"t": "あいつ、また"}, {"t": "遅刻", "r": "ちこく"}, {"t": "しやがった。"}],
+        "korean": "저 녀석 또 지각했네."
+      },
+      {
+        "tokens": [{"t": "雨", "r": "あめ"}, {"t": "、"}, {"t": "降", "r": "ふ"}, {"t": "りやがった。"}],
+        "korean": "비 오고 난리네."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-101",
+    "tokens": [{"t": "エントリーシート、"}, {"t": "何枚", "r": "なんまい"}, {"t": "書", "r": "か"}, {"t": "けば"}, {"t": "終", "r": "お"}, {"t": "わるんだろう。"}],
+    "korean": "자소서, 몇 장을 써야 끝나는 걸까.",
+    "literal": null,
+    "punchline": "자소서 쓰다가 자아를 잃는 중.",
+    "category": "life",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "エントリーシート", "reading": "えんとりーしーと", "meaning": "자기소개서(ES)", "note": "줄여서 ES"},
+      {"word": "何枚", "reading": "なんまい", "meaning": "몇 장", "note": null},
+      {"word": "書く", "reading": "かく", "meaning": "쓰다", "note": null}
+    ],
+    "grammarIds": ["n-darou"],
+    "nuance": "일본 취업 준비생(就活生)은 회사마다 エントリーシート를 따로 써요. んだろう가 답 없는 한탄을 만들어요.",
+    "memoTip": "就活 = 취업 활동. 〜活 시리즈: 婚活(결혼 활동), 推し活(덕질).",
+    "examples": [
+      {
+        "tokens": [{"t": "なんで"}, {"t": "月曜日", "r": "げつようび"}, {"t": "は"}, {"t": "来", "r": "く"}, {"t": "るんだろう。"}],
+        "korean": "왜 월요일은 오는 걸까."
+      },
+      {
+        "tokens": [{"t": "いつ"}, {"t": "終", "r": "お"}, {"t": "わるんだろう。"}],
+        "korean": "언제 끝나는 걸까."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-103",
+    "tokens": [{"t": "お"}, {"t": "前", "r": "まえ"}, {"t": "って、"}, {"t": "雨", "r": "あめ"}, {"t": "の"}, {"t": "月曜日", "r": "げつようび"}, {"t": "みたいなやつだよな。"}],
+    "korean": "너는 비 오는 월요일 같은 녀석이야.",
+    "literal": null,
+    "punchline": "칭찬 아님.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": "친한 친구한테만. 그것도 각오하고.",
+    "keywords": [],
+    "words": [
+      {"word": "お前", "reading": "おまえ", "meaning": "너", "note": "거친 말"},
+      {"word": "雨", "reading": "あめ", "meaning": "비", "note": null},
+      {"word": "やつ", "reading": "やつ", "meaning": "녀석, 놈", "note": null}
+    ],
+    "grammarIds": ["mitai", "sentence-na"],
+    "nuance": "お前와 やつ는 친한 사이의 거친 말이에요. だよな가 '그치?' 하고 동의를 구해서 시비 거는 느낌이 확 살아요.",
+    "memoTip": "みたいな + 명사 = ~같은 ○○.",
+    "examples": [
+      {
+        "tokens": [{"t": "夢", "r": "ゆめ"}, {"t": "みたいな"}, {"t": "話", "r": "はなし"}, {"t": "だ。"}],
+        "korean": "꿈 같은 얘기다."
+      },
+      {
+        "tokens": [{"t": "子", "r": "こ"}, {"t": "どもみたいだね。"}],
+        "korean": "애 같네."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-102",
+    "tokens": [{"t": "もうすぐ"}, {"t": "夏休", "r": "なつやす"}, {"t": "みが"}, {"t": "来", "r": "く"}, {"t": "る"}, {"t": "頃", "r": "ころ"}, {"t": "かな。"}],
+    "korean": "이제 곧 여름방학이 올 때인가.",
+    "literal": null,
+    "punchline": "개강한 지 2주 됐습니다.",
+    "category": "reality",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "もうすぐ", "reading": "もうすぐ", "meaning": "이제 곧", "note": null},
+      {"word": "夏休み", "reading": "なつやすみ", "meaning": "여름방학, 여름휴가", "note": null},
+      {"word": "頃", "reading": "ころ", "meaning": "무렵, 때", "note": null}
+    ],
+    "grammarIds": ["kana"],
+    "nuance": "かな는 확신 없는 혼잣말이에요. '그랬으면 좋겠다'는 희망이 섞여 있어요.",
+    "memoTip": "もうすぐ = 곧. そろそろ(슬슬)보다 더 가까운 느낌.",
+    "examples": [
+      {
+        "tokens": [{"t": "そろそろ"}, {"t": "帰", "r": "かえ"}, {"t": "ろうかな。"}],
+        "korean": "슬슬 집에 갈까."
+      },
+      {
+        "tokens": [{"t": "明日", "r": "あした"}, {"t": "は"}, {"t": "晴", "r": "は"}, {"t": "れるかな。"}],
+        "korean": "내일은 맑으려나."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-102",
+    "tokens": [{"t": "お"}, {"t": "金", "r": "かね"}, {"t": "って、"}, {"t": "稼", "r": "かせ"}, {"t": "ぐのは"}, {"t": "大変", "r": "たいへん"}, {"t": "なのに"}, {"t": "消", "r": "き"}, {"t": "えるのは"}, {"t": "一瞬", "r": "いっしゅん"}, {"t": "だな。"}],
+    "korean": "돈은 버는 건 힘든데 사라지는 건 한순간이네.",
+    "literal": null,
+    "punchline": "가계부는 사흘째 공백.",
+    "category": "money",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "稼ぐ", "reading": "かせぐ", "meaning": "(돈을) 벌다", "note": null},
+      {"word": "大変", "reading": "たいへん", "meaning": "힘듦, 큰일", "note": null},
+      {"word": "一瞬", "reading": "いっしゅん", "meaning": "한순간", "note": null}
+    ],
+    "grammarIds": ["verb-no", "noni"],
+    "nuance": "〜のは A なのに 〜のは B로 두 가지를 맞세워요. 稼ぐ는 '땀 흘려 번다'는 뉘앙스예요.",
+    "memoTip": "小遣い稼ぎ = 용돈벌이.",
+    "examples": [
+      {
+        "tokens": [{"t": "一人", "r": "ひとり"}, {"t": "で"}, {"t": "暮", "r": "く"}, {"t": "らすのって"}, {"t": "大変", "r": "たいへん"}, {"t": "だな。"}],
+        "korean": "혼자 사는 거 힘드네."
+      },
+      {
+        "tokens": [{"t": "バイトで"}, {"t": "稼", "r": "かせ"}, {"t": "ぐ。"}],
+        "korean": "알바로 번다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-104",
+    "tokens": [{"t": "友", "r": "とも"}, {"t": "よ、"}, {"t": "早", "r": "はや"}, {"t": "く"}, {"t": "出世", "r": "しゅっせ"}, {"t": "して"}, {"t": "俺", "r": "おれ"}, {"t": "を"}, {"t": "養", "r": "やしな"}, {"t": "ってくれ。"}],
+    "korean": "친구여, 어서 출세해서 나 좀 먹여 살려 줘.",
+    "literal": null,
+    "punchline": "우정의 진짜 목적.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": "남자 말투에 가까워요. 부드럽게는 「養ってね」.",
+    "keywords": [],
+    "words": [
+      {"word": "友", "reading": "とも", "meaning": "벗, 친구", "note": "友達보다 문어적"},
+      {"word": "出世", "reading": "しゅっせ", "meaning": "출세", "note": null},
+      {"word": "養う", "reading": "やしなう", "meaning": "부양하다, 먹여 살리다", "note": null}
+    ],
+    "grammarIds": ["te-kure"],
+    "nuance": "友よ는 시나 노래에 나올 법한 과장된 호칭이에요. 거창하게 시작해서 부양 요청으로 끝나는 게 포인트.",
+    "memoTip": "てくれ = てください의 반말, 거친 버전.",
+    "examples": [
+      {
+        "tokens": [{"t": "ちょっと"}, {"t": "待", "r": "ま"}, {"t": "ってくれ。"}],
+        "korean": "잠깐 기다려 줘."
+      },
+      {
+        "tokens": [{"t": "早", "r": "はや"}, {"t": "く"}, {"t": "教", "r": "おし"}, {"t": "えてくれ。"}],
+        "korean": "빨리 알려 줘."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-105",
+    "tokens": [{"t": "靴下", "r": "くつした"}, {"t": "のまま、"}, {"t": "濡", "r": "ぬ"}, {"t": "れた"}, {"t": "床", "r": "ゆか"}, {"t": "を"}, {"t": "踏", "r": "ふ"}, {"t": "めばいいのに。"}],
+    "korean": "양말 신은 채로 젖은 바닥이나 밟아라.",
+    "literal": "양말인 채로 젖은 바닥을 밟으면 좋을 텐데.",
+    "punchline": "피해는 적고 기분은 최악인 저주.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "靴下", "reading": "くつした", "meaning": "양말", "note": null},
+      {"word": "濡れる", "reading": "ぬれる", "meaning": "젖다", "note": null},
+      {"word": "床", "reading": "ゆか", "meaning": "바닥", "note": null},
+      {"word": "踏む", "reading": "ふむ", "meaning": "밟다", "note": null}
+    ],
+    "grammarIds": ["mama", "ba-iinoni"],
+    "nuance": "ばいいのに는 원래 '~하면 좋을 텐데'. 남한테 쓰면 은근한 저주가 돼요. 큰 불행이 아니라 딱 기분 나쁜 정도라서 웃겨요.",
+    "memoTip": "명사 + のまま = ~인 채로. 靴下のまま = 양말 바람으로.",
+    "examples": [
+      {
+        "tokens": [{"t": "電気", "r": "でんき"}, {"t": "をつけたまま"}, {"t": "寝", "r": "ね"}, {"t": "た。"}],
+        "korean": "불 켠 채로 잤다."
+      },
+      {
+        "tokens": [{"t": "早", "r": "はや"}, {"t": "く"}, {"t": "寝", "r": "ね"}, {"t": "ればいいのに。"}],
+        "korean": "빨리 자면 좋을 텐데."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-106",
+    "tokens": [{"t": "一日中", "r": "いちにちじゅう"}, {"t": "、"}, {"t": "靴下", "r": "くつした"}, {"t": "を"}, {"t": "裏返", "r": "うらがえ"}, {"t": "しで"}, {"t": "履", "r": "は"}, {"t": "いてた。"}],
+    "korean": "하루 종일 양말을 뒤집어 신고 있었어.",
+    "literal": null,
+    "punchline": "퇴근하고 나서야 앎.",
+    "category": "meme",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "一日中", "reading": "いちにちじゅう", "meaning": "하루 종일", "note": null},
+      {"word": "裏返し", "reading": "うらがえし", "meaning": "뒤집힘, 안팎이 바뀜", "note": null},
+      {"word": "履く", "reading": "はく", "meaning": "신다, (하의를) 입다", "note": null}
+    ],
+    "grammarIds": ["teta"],
+    "nuance": "裏返し는 옷이나 양말의 안팎이 뒤집힌 상태예요. 하루 종일 몰랐다는 게 핵심이라 てた(~하고 있었다)가 딱 맞아요.",
+    "memoTip": "てた = ていた. 회화에서는 い를 자주 빼요.",
+    "examples": [
+      {
+        "tokens": [{"t": "ずっと"}, {"t": "寝", "r": "ね"}, {"t": "てた。"}],
+        "korean": "계속 자고 있었어."
+      },
+      {
+        "tokens": [{"t": "全然", "r": "ぜんぜん"}, {"t": "気", "r": "き"}, {"t": "づいてなかった。"}],
+        "korean": "전혀 몰랐어."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-102",
+    "tokens": [{"t": "弱音", "r": "よわね"}, {"t": "を"}, {"t": "吐", "r": "は"}, {"t": "くな。お"}, {"t": "前", "r": "まえ"}, {"t": "はもう"}, {"t": "大人", "r": "おとな"}, {"t": "だろ。"}],
+    "korean": "약한 소리 하지 마. 너는 이제 어른이잖아.",
+    "literal": null,
+    "punchline": "매일 아침 거울 보고 하는 말.",
+    "category": "life",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": "남한테 하면 꼰대 확정. 나한테만 쓰세요.",
+    "keywords": [],
+    "words": [
+      {"word": "弱音を吐く", "reading": "よわねをはく", "meaning": "약한 소리를 하다, 우는소리를 하다", "note": null},
+      {"word": "もう", "reading": "もう", "meaning": "이제, 이미", "note": null},
+      {"word": "大人", "reading": "おとな", "meaning": "어른", "note": null}
+    ],
+    "grammarIds": ["na-prohibition"],
+    "nuance": "弱音を吐く는 '약한 소리를 내뱉다'라는 관용 표현이에요. だろ는 '~잖아' 하고 몰아붙이는 거친 말투. 남한테 하면 꼰대, 나한테 하면 자기암시.",
+    "memoTip": "사전형 + な = ~하지 마(강한 금지).",
+    "examples": [
+      {
+        "tokens": [{"t": "遅", "r": "おく"}, {"t": "れるな。"}],
+        "korean": "늦지 마."
+      },
+      {
+        "tokens": [{"t": "心配", "r": "しんぱい"}, {"t": "するな。"}],
+        "korean": "걱정하지 마."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-103",
+    "tokens": [{"t": "金曜日", "r": "きんようび"}, {"t": "は、さわやかな"}, {"t": "朝", "r": "あさ"}, {"t": "から"}, {"t": "始", "r": "はじ"}, {"t": "まる。"}],
+    "korean": "금요일은 상쾌한 아침으로 시작한다.",
+    "literal": "금요일은 상쾌한 아침부터 시작된다.",
+    "punchline": "월요일 아침과 같은 시간, 다른 사람.",
+    "category": "reality",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "金曜日", "reading": "きんようび", "meaning": "금요일", "note": null},
+      {"word": "さわやか", "reading": "さわやか", "meaning": "상쾌함, 산뜻함", "note": "な형용사"},
+      {"word": "始まる", "reading": "はじまる", "meaning": "시작되다", "note": null}
+    ],
+    "grammarIds": ["na-adj-noun", "kara-start"],
+    "nuance": "さわやか는 날씨뿐 아니라 사람 인상에도 쓰는 '산뜻하고 기분 좋은'. 금요일 아침에만 유독 さわやか한 이유는 다들 알죠.",
+    "memoTip": "요일: 月火水木金土日. 金曜日 = 금요일.",
+    "examples": [
+      {
+        "tokens": [{"t": "静", "r": "しず"}, {"t": "かな"}, {"t": "部屋", "r": "へや"}, {"t": "。"}],
+        "korean": "조용한 방."
+      },
+      {
+        "tokens": [{"t": "好", "r": "す"}, {"t": "きな"}, {"t": "人", "r": "ひと"}, {"t": "。"}],
+        "korean": "좋아하는 사람."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-103",
+    "tokens": [{"t": "朝", "r": "あさ"}, {"t": "から、"}, {"t": "帰", "r": "かえ"}, {"t": "ることばかり"}, {"t": "考", "r": "かんが"}, {"t": "えています。"}],
+    "korean": "아침부터 퇴근 생각만 하고 있어요.",
+    "literal": null,
+    "punchline": "출근 5분 차부터.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "동료에게 농담으로는 OK. 상사에게는 X.",
+    "keywords": [],
+    "words": [
+      {"word": "朝", "reading": "あさ", "meaning": "아침", "note": null},
+      {"word": "帰る", "reading": "かえる", "meaning": "돌아가다, 집에 가다", "note": null},
+      {"word": "考える", "reading": "かんがえる", "meaning": "생각하다", "note": null}
+    ],
+    "grammarIds": ["bakari", "te-iru"],
+    "nuance": "ばかり는 '그것만'이라는 뜻에 '지나치게'라는 불만이 살짝 섞여요. 정중하게 말할수록 더 뻔뻔해요.",
+    "memoTip": "〜ことばかり = ~하는 것만. 文句ばかり = 불평만.",
+    "examples": [
+      {
+        "tokens": [{"t": "文句", "r": "もんく"}, {"t": "ばかり"}, {"t": "言", "r": "い"}, {"t": "う。"}],
+        "korean": "불평만 한다."
+      },
+      {
+        "tokens": [{"t": "食", "r": "た"}, {"t": "べてばかりいる。"}],
+        "korean": "먹기만 한다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "real-101",
+    "tokens": [{"t": "先輩", "r": "せんぱい"}, {"t": "にタメ"}, {"t": "口", "r": "ぐち"}, {"t": "とは、いい"}, {"t": "度胸", "r": "どきょう"}, {"t": "だな。"}],
+    "korean": "선배한테 반말이라니, 배짱 좋네.",
+    "literal": null,
+    "punchline": "선배 된 지 하루 차의 첫 대사.",
+    "category": "real",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": "실제로 하면 무서운 선배. 친구끼리 장난으로만.",
+    "keywords": [],
+    "words": [
+      {"word": "先輩", "reading": "せんぱい", "meaning": "선배", "note": null},
+      {"word": "タメ口", "reading": "ためぐち", "meaning": "반말", "note": "タメ = 동갑"},
+      {"word": "度胸", "reading": "どきょう", "meaning": "배짱", "note": null}
+    ],
+    "grammarIds": ["sentence-na"],
+    "nuance": "いい度胸だ는 칭찬처럼 들리지만 실제로는 '간이 크구나?'라는 경고예요. とは는 '~라니' 하고 놀람을 나타내요.",
+    "memoTip": "반말해도 돼 = 「タメ口でいいよ」.",
+    "examples": [
+      {
+        "tokens": [{"t": "先輩", "r": "せんぱい"}, {"t": "にタメ"}, {"t": "口", "r": "ぐち"}, {"t": "はだめだよ。"}],
+        "korean": "선배한테 반말은 안 돼."
+      },
+      {
+        "tokens": [{"t": "タメ"}, {"t": "口", "r": "ぐち"}, {"t": "でいいよ。"}],
+        "korean": "반말해도 돼."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-107",
+    "tokens": [{"t": "旅行欲", "r": "りょこうよく"}, {"t": "のクールタイム、もう"}, {"t": "終", "r": "お"}, {"t": "わった。"}],
+    "korean": "여행 욕구 쿨타임, 벌써 끝났다.",
+    "literal": null,
+    "punchline": "통장 쿨타임은 아직임.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "旅行欲", "reading": "りょこうよく", "meaning": "여행 욕구", "note": null},
+      {"word": "クールタイム", "reading": "くーるたいむ", "meaning": "쿨타임", "note": "게임 용어"},
+      {"word": "終わる", "reading": "おわる", "meaning": "끝나다", "note": null}
+    ],
+    "grammarIds": ["ta-past"],
+    "nuance": "게임 용어 クールタイム를 일상에 가져온 인터넷식 농담이에요. 다녀온 지 얼마 안 됐는데 또 떠나고 싶은 마음.",
+    "memoTip": "〜欲 = ~욕구. 物欲 = 물욕, 食欲 = 식욕.",
+    "examples": [
+      {
+        "tokens": [{"t": "物欲", "r": "ぶつよく"}, {"t": "が"}, {"t": "止", "r": "と"}, {"t": "まらない。"}],
+        "korean": "물욕이 멈추지 않는다."
+      },
+      {
+        "tokens": [{"t": "夏休", "r": "なつやす"}, {"t": "みが"}, {"t": "終", "r": "お"}, {"t": "わった。"}],
+        "korean": "여름방학이 끝났다."
+      }
+    ],
+    "sourceType": "internet",
+    "source": "게임 용어에서 온 일본 인터넷 표현",
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-104",
+    "tokens": [{"t": "寝", "r": "ね"}, {"t": "ても"}, {"t": "寝", "r": "ね"}, {"t": "ても"}, {"t": "眠", "r": "ねむ"}, {"t": "い。"}],
+    "korean": "자도 자도 졸리다.",
+    "literal": null,
+    "punchline": "그리고 밤에는 안 졸림.",
+    "category": "reality",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "寝る", "reading": "ねる", "meaning": "자다", "note": null},
+      {"word": "眠い", "reading": "ねむい", "meaning": "졸리다", "note": null}
+    ],
+    "grammarIds": ["te-mo"],
+    "nuance": "ても를 두 번 반복하면 '아무리 ~해도'. 끝이 안 보이는 졸음이에요.",
+    "memoTip": "寝(ね)る = 자는 행동, 眠(ねむ)い = 졸린 상태. 한자가 비슷해서 헷갈려요.",
+    "examples": [
+      {
+        "tokens": [{"t": "食", "r": "た"}, {"t": "べても"}, {"t": "食", "r": "た"}, {"t": "べても"}, {"t": "太", "r": "ふと"}, {"t": "らない。"}],
+        "korean": "먹어도 먹어도 살이 안 찐다."
+      },
+      {
+        "tokens": [{"t": "何回", "r": "なんかい"}, {"t": "聞", "r": "き"}, {"t": "いても"}, {"t": "分", "r": "わ"}, {"t": "からない。"}],
+        "korean": "몇 번 들어도 모르겠다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-104",
+    "tokens": [{"t": "有給", "r": "ゆうきゅう"}, {"t": "、どこに"}, {"t": "消", "r": "き"}, {"t": "えたんだろう。"}],
+    "korean": "연차는 어디로 사라진 걸까.",
+    "literal": null,
+    "punchline": "쓴 기억은 없는데 남은 것도 없음.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "有給", "reading": "ゆうきゅう", "meaning": "연차(유급휴가)", "note": "有給休暇의 줄임말"},
+      {"word": "消える", "reading": "きえる", "meaning": "사라지다", "note": null}
+    ],
+    "grammarIds": ["n-darou"],
+    "nuance": "有給는 '유급휴가'를 줄인 말로, 일본 직장인이 연차를 부를 때 가장 많이 써요. 쓴 기억은 없는데 없어진 그 느낌.",
+    "memoTip": "有給を取る = 연차를 쓰다.",
+    "examples": [
+      {
+        "tokens": [{"t": "有給", "r": "ゆうきゅう"}, {"t": "を"}, {"t": "取", "r": "と"}, {"t": "りたい。"}],
+        "korean": "연차 쓰고 싶다."
+      },
+      {
+        "tokens": [{"t": "鍵", "r": "かぎ"}, {"t": "、どこに"}, {"t": "置", "r": "お"}, {"t": "いたんだろう。"}],
+        "korean": "열쇠를 어디 뒀더라."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-103",
+    "tokens": [{"t": "給料", "r": "きゅうりょう"}, {"t": "が"}, {"t": "入", "r": "はい"}, {"t": "った"}, {"t": "瞬間", "r": "しゅんかん"}, {"t": "、"}, {"t": "消", "r": "き"}, {"t": "えた。"}],
+    "korean": "월급이 들어온 순간 사라졌다.",
+    "literal": null,
+    "punchline": "월급은 통장을 스쳐 갈 뿐.",
+    "category": "money",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "給料", "reading": "きゅうりょう", "meaning": "월급", "note": null},
+      {"word": "入る", "reading": "はいる", "meaning": "들어오다", "note": null},
+      {"word": "瞬間", "reading": "しゅんかん", "meaning": "순간", "note": null},
+      {"word": "消える", "reading": "きえる", "meaning": "사라지다", "note": null}
+    ],
+    "grammarIds": ["ta-shunkan"],
+    "nuance": "た형 + 瞬間 = '~하자마자 그 순간'. 월급이 통장을 스쳐 간다는 한국식 감각과 똑같아요.",
+    "memoTip": "給料が入る = 월급이 들어오다.",
+    "examples": [
+      {
+        "tokens": [{"t": "家", "r": "いえ"}, {"t": "に"}, {"t": "着", "r": "つ"}, {"t": "いた"}, {"t": "瞬間", "r": "しゅんかん"}, {"t": "、"}, {"t": "寝", "r": "ね"}, {"t": "た。"}],
+        "korean": "집에 도착한 순간 잤다."
+      },
+      {
+        "tokens": [{"t": "目", "r": "め"}, {"t": "が"}, {"t": "合", "r": "あ"}, {"t": "った"}, {"t": "瞬間", "r": "しゅんかん"}, {"t": "、"}, {"t": "笑", "r": "わら"}, {"t": "った。"}],
+        "korean": "눈이 마주친 순간 웃었다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "real-102",
+    "tokens": [{"t": "推", "r": "お"}, {"t": "しが"}, {"t": "尊", "r": "とうと"}, {"t": "い。"}],
+    "korean": "최애가 너무 존귀하다.",
+    "literal": null,
+    "punchline": "오늘도 통장은 최애에게.",
+    "category": "real",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "推し", "reading": "おし", "meaning": "최애", "note": null},
+      {"word": "尊い", "reading": "とうとい", "meaning": "고귀하다, 소중하다", "note": null}
+    ],
+    "grammarIds": ["i-adj"],
+    "nuance": "尊い는 원래 '고귀하다'는 격식 있는 말인데, 최애가 너무 좋아서 말이 안 나올 때 덕후들이 써요.",
+    "memoTip": "推し活 = 최애 덕질.",
+    "examples": [
+      {
+        "tokens": [{"t": "このケーキ、おいしい。"}],
+        "korean": "이 케이크 맛있다."
+      },
+      {
+        "tokens": [{"t": "今日", "r": "きょう"}, {"t": "は"}, {"t": "寒", "r": "さむ"}, {"t": "い。"}],
+        "korean": "오늘은 춥다."
+      }
+    ],
+    "sourceType": "internet",
+    "source": "일본 오타쿠·인터넷 유행어",
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-105",
+    "tokens": [{"t": "上司", "r": "じょうし"}, {"t": "の"}, {"t": "話", "r": "はなし"}, {"t": "、"}, {"t": "長", "r": "なが"}, {"t": "すぎ。"}],
+    "korean": "상사 얘기, 너무 길어.",
+    "literal": null,
+    "punchline": "결론은 마지막 10초에.",
+    "category": "work",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": "상사 앞에서는 「勉強になります」.",
+    "keywords": [],
+    "words": [
+      {"word": "上司", "reading": "じょうし", "meaning": "상사", "note": null},
+      {"word": "話", "reading": "はなし", "meaning": "이야기", "note": null},
+      {"word": "長い", "reading": "ながい", "meaning": "길다", "note": null}
+    ],
+    "grammarIds": ["sugiru"],
+    "nuance": "すぎ는 すぎる에서 る를 뺀 회화체예요. 「長すぎ」처럼 뚝 끊으면 짜증이 더 살아요.",
+    "memoTip": "い형용사 어간 + すぎる: 高すぎる, 寒すぎる.",
+    "examples": [
+      {
+        "tokens": [{"t": "このラーメン、"}, {"t": "高", "r": "たか"}, {"t": "すぎ。"}],
+        "korean": "이 라멘 너무 비싸."
+      },
+      {
+        "tokens": [{"t": "昨日", "r": "きのう"}, {"t": "食", "r": "た"}, {"t": "べすぎた。"}],
+        "korean": "어제 과식했다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-104",
+    "tokens": [{"t": "財布", "r": "さいふ"}, {"t": "が"}, {"t": "軽", "r": "かる"}, {"t": "い。"}],
+    "korean": "지갑이 가볍다.",
+    "literal": null,
+    "punchline": "마음은 무겁다.",
+    "category": "money",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "財布", "reading": "さいふ", "meaning": "지갑", "note": null},
+      {"word": "軽い", "reading": "かるい", "meaning": "가볍다", "note": null}
+    ],
+    "grammarIds": ["i-adj"],
+    "nuance": "財布が軽い는 돈이 없다는 걸 돌려 말하는 표현이에요. お金がない라고 직접 말하는 것보다 조금 귀엽고 씁쓸해요.",
+    "memoTip": "財布のひもが固い = 지갑 끈이 단단하다(짠돌이).",
+    "examples": [
+      {
+        "tokens": [{"t": "このかばんは"}, {"t": "軽", "r": "かる"}, {"t": "い。"}],
+        "korean": "이 가방은 가볍다."
+      },
+      {
+        "tokens": [{"t": "部屋", "r": "へや"}, {"t": "が"}, {"t": "狭", "r": "せま"}, {"t": "い。"}],
+        "korean": "방이 좁다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-105",
+    "tokens": [{"t": "週末", "r": "しゅうまつ"}, {"t": "、"}, {"t": "一瞬", "r": "いっしゅん"}, {"t": "で"}, {"t": "終", "r": "お"}, {"t": "わった。"}],
+    "korean": "주말이 순식간에 끝났다.",
+    "literal": null,
+    "punchline": "평일은 5일, 주말은 5분.",
+    "category": "reality",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "週末", "reading": "しゅうまつ", "meaning": "주말", "note": null},
+      {"word": "一瞬", "reading": "いっしゅん", "meaning": "한순간", "note": null},
+      {"word": "終わる", "reading": "おわる", "meaning": "끝나다", "note": null}
+    ],
+    "grammarIds": ["ta-past"],
+    "nuance": "一瞬で = 한순간에, 눈 깜짝할 새. 주말은 一瞬, 월요일은 永遠.",
+    "memoTip": "一瞬(いっしゅん)의 반대는 永遠(えいえん).",
+    "examples": [
+      {
+        "tokens": [{"t": "夏休", "r": "なつやす"}, {"t": "みが"}, {"t": "終", "r": "お"}, {"t": "わった。"}],
+        "korean": "여름방학이 끝났다."
+      },
+      {
+        "tokens": [{"t": "昨日", "r": "きのう"}, {"t": "、"}, {"t": "映画", "r": "えいが"}, {"t": "を"}, {"t": "見", "r": "み"}, {"t": "た。"}],
+        "korean": "어제 영화를 봤다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-106",
+    "tokens": [{"t": "帰", "r": "かえ"}, {"t": "ったら"}, {"t": "何", "r": "なに"}, {"t": "もしない。"}],
+    "korean": "집에 가면 아무것도 안 할 거야.",
+    "literal": null,
+    "punchline": "이 계획만은 반드시 지킴.",
+    "category": "reality",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "帰る", "reading": "かえる", "meaning": "집에 가다", "note": null},
+      {"word": "何も", "reading": "なにも", "meaning": "아무것도", "note": "뒤에 부정이 와요"}
+    ],
+    "grammarIds": ["tara"],
+    "nuance": "たら는 '~하면, ~하고 나면'. 집에 가는 순간 모든 의욕을 끄겠다는 선언이에요.",
+    "memoTip": "何も + 부정 = 아무것도 ~ 안 하다.",
+    "examples": [
+      {
+        "tokens": [{"t": "家", "r": "いえ"}, {"t": "に"}, {"t": "着", "r": "つ"}, {"t": "いたら"}, {"t": "連絡", "r": "れんらく"}, {"t": "して。"}],
+        "korean": "집에 도착하면 연락해."
+      },
+      {
+        "tokens": [{"t": "暇", "r": "ひま"}, {"t": "だったら"}, {"t": "遊", "r": "あそ"}, {"t": "ぼう。"}],
+        "korean": "한가하면 놀자."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-103",
+    "tokens": [{"t": "ダイエットは"}, {"t": "明日", "r": "あした"}, {"t": "から。"}],
+    "korean": "다이어트는 내일부터.",
+    "literal": null,
+    "punchline": "그 내일이 3년째.",
+    "category": "life",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "ダイエット", "reading": "ダイエット", "meaning": "다이어트", "note": null},
+      {"word": "明日", "reading": "あした", "meaning": "내일", "note": null}
+    ],
+    "grammarIds": ["kara-start"],
+    "nuance": "は가 '다른 건 몰라도 다이어트는'이라는 대비를 만들어요. 즉 오늘은 먹겠다는 뜻.",
+    "memoTip": "「〜は明日から」는 뭐든 미룰 때 쓰는 만능 문장.",
+    "examples": [
+      {
+        "tokens": [{"t": "仕事", "r": "しごと"}, {"t": "は"}, {"t": "月曜日", "r": "げつようび"}, {"t": "から。"}],
+        "korean": "일은 월요일부터."
+      },
+      {
+        "tokens": [{"t": "授業", "r": "じゅぎょう"}, {"t": "は"}, {"t": "九時", "r": "くじ"}, {"t": "からです。"}],
+        "korean": "수업은 9시부터예요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-103",
+    "tokens": [{"t": "好", "r": "す"}, {"t": "きな"}, {"t": "人", "r": "ひと"}, {"t": "に"}, {"t": "好", "r": "す"}, {"t": "きな"}, {"t": "人", "r": "ひと"}, {"t": "がいた。"}],
+    "korean": "좋아하는 사람에게 좋아하는 사람이 있었다.",
+    "literal": null,
+    "punchline": "세 줄 요약: 끝.",
+    "category": "love",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "好き", "reading": "すき", "meaning": "좋아함", "note": null},
+      {"word": "人", "reading": "ひと", "meaning": "사람", "note": null},
+      {"word": "いる", "reading": "いる", "meaning": "(사람이) 있다", "note": null}
+    ],
+    "grammarIds": ["na-adj-noun"],
+    "nuance": "好きな人을 두 번 반복해서 이야기 전체가 한 문장에 들어 있어요. いた(과거형)라서 이미 알아 버린 슬픔.",
+    "memoTip": "好き는 な형용사: 好きな人 = 좋아하는 사람.",
+    "examples": [
+      {
+        "tokens": [{"t": "元気", "r": "げんき"}, {"t": "な"}, {"t": "子", "r": "こ"}, {"t": "ども。"}],
+        "korean": "활발한 아이."
+      },
+      {
+        "tokens": [{"t": "有名", "r": "ゆうめい"}, {"t": "な"}, {"t": "店", "r": "みせ"}, {"t": "。"}],
+        "korean": "유명한 가게."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-104",
+    "tokens": [{"t": "彼氏", "r": "かれし"}, {"t": "いない"}, {"t": "歴", "r": "れき"}, {"t": "＝"}, {"t": "年齢", "r": "ねんれい"}, {"t": "です。"}],
+    "korean": "모태솔로입니다.",
+    "literal": "남친 없는 기간 = 나이입니다.",
+    "punchline": "꾸준함 하나는 인정.",
+    "category": "love",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "彼氏", "reading": "かれし", "meaning": "남자친구", "note": null},
+      {"word": "歴", "reading": "れき", "meaning": "~력, 경력", "note": null},
+      {"word": "年齢", "reading": "ねんれい", "meaning": "나이", "note": null}
+    ],
+    "grammarIds": ["desu"],
+    "nuance": "'남친 없는 경력 = 나이'. 한국어 '모태솔로'의 일본 인터넷식 표현이에요. ＝는 イコール라고 읽어요.",
+    "memoTip": "여자친구 버전은 彼女いない歴.",
+    "examples": [
+      {
+        "tokens": [{"t": "学生", "r": "がくせい"}, {"t": "です。"}],
+        "korean": "학생입니다."
+      },
+      {
+        "tokens": [{"t": "趣味", "r": "しゅみ"}, {"t": "は"}, {"t": "読書", "r": "どくしょ"}, {"t": "です。"}],
+        "korean": "취미는 독서입니다."
+      }
+    ],
+    "sourceType": "internet",
+    "source": "일본 인터넷 유행어",
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-107",
+    "tokens": [{"t": "朝", "r": "あさ"}, {"t": "、"}, {"t": "起", "r": "お"}, {"t": "きられない。"}],
+    "korean": "아침에 못 일어나겠어.",
+    "literal": null,
+    "punchline": "알람 다섯 개 맞춰도.",
+    "category": "reality",
+    "jlpt": "N4",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "朝", "reading": "あさ", "meaning": "아침", "note": null},
+      {"word": "起きる", "reading": "おきる", "meaning": "일어나다", "note": null}
+    ],
+    "grammarIds": ["potential"],
+    "nuance": "起きられない는 '안 일어나는' 게 아니라 '못 일어나는' 것. 의지는 있었다는 변명이 들어 있어요.",
+    "memoTip": "회화에서는 ら를 뺀 起きれない도 많이 써요.",
+    "examples": [
+      {
+        "tokens": [{"t": "日本語", "r": "にほんご"}, {"t": "が"}, {"t": "話", "r": "はな"}, {"t": "せる。"}],
+        "korean": "일본어를 할 수 있다."
+      },
+      {
+        "tokens": [{"t": "辛", "r": "から"}, {"t": "いものは"}, {"t": "食", "r": "た"}, {"t": "べられない。"}],
+        "korean": "매운 건 못 먹는다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-106",
+    "tokens": [{"t": "残業代", "r": "ざんぎょうだい"}, {"t": "、"}, {"t": "出", "r": "で"}, {"t": "ないんですか？"}],
+    "korean": "야근 수당 안 나와요?",
+    "literal": null,
+    "punchline": "직장인 일본어 필수 문장.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "진짜로 물어볼 땐 「残業代は出ますか？」가 덜 공격적이에요.",
+    "keywords": [],
+    "words": [
+      {"word": "残業代", "reading": "ざんぎょうだい", "meaning": "야근 수당", "note": null},
+      {"word": "出る", "reading": "でる", "meaning": "나오다, 지급되다", "note": null}
+    ],
+    "grammarIds": ["n-desu-ka"],
+    "nuance": "んですか는 설명을 요구하는 질문이에요. 그냥 出ないですか보다 '어떻게 그럴 수 있죠?'라는 놀람과 항의가 묻어나요.",
+    "memoTip": "サービス残業 = 무급 야근.",
+    "examples": [
+      {
+        "tokens": [{"t": "どうしたんですか？"}],
+        "korean": "무슨 일이에요?"
+      },
+      {
+        "tokens": [{"t": "行", "r": "い"}, {"t": "かないんですか？"}],
+        "korean": "안 가요?"
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-104",
+    "tokens": [{"t": "来月", "r": "らいげつ"}, {"t": "の"}, {"t": "自分", "r": "じぶん"}, {"t": "に"}, {"t": "任", "r": "まか"}, {"t": "せた。"}],
+    "korean": "다음 달의 나한테 맡겼다.",
+    "literal": null,
+    "punchline": "다음 달의 나: ?",
+    "category": "life",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "来月", "reading": "らいげつ", "meaning": "다음 달", "note": null},
+      {"word": "自分", "reading": "じぶん", "meaning": "자기 자신", "note": null},
+      {"word": "任せる", "reading": "まかせる", "meaning": "맡기다", "note": null}
+    ],
+    "grammarIds": ["ta-past"],
+    "nuance": "自分은 '나 자신'. 미래의 나에게 일을 떠넘기는 건 만국 공통이에요.",
+    "memoTip": "「任せて！」 = 맡겨!",
+    "examples": [
+      {
+        "tokens": [{"t": "宿題", "r": "しゅくだい"}, {"t": "をした。"}],
+        "korean": "숙제를 했다."
+      },
+      {
+        "tokens": [{"t": "友達", "r": "ともだち"}, {"t": "に"}, {"t": "会", "r": "あ"}, {"t": "った。"}],
+        "korean": "친구를 만났다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-105",
+    "tokens": [{"t": "お"}, {"t": "金", "r": "かね"}, {"t": "で"}, {"t": "買", "r": "か"}, {"t": "えない"}, {"t": "幸", "r": "しあわ"}, {"t": "せもある。らしい。"}],
+    "korean": "돈으로 살 수 없는 행복도 있다. 라던데.",
+    "literal": null,
+    "punchline": "아직 확인된 바 없음.",
+    "category": "money",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "お金", "reading": "おかね", "meaning": "돈", "note": null},
+      {"word": "買う", "reading": "かう", "meaning": "사다", "note": null},
+      {"word": "幸せ", "reading": "しあわせ", "meaning": "행복", "note": null}
+    ],
+    "grammarIds": ["potential", "rashii"],
+    "nuance": "らしい는 '~라고 하더라'는 남 얘기 말투예요. 마침표 찍고 따로 붙여서 '나는 못 믿겠다'는 의심이 살아나요.",
+    "memoTip": "買う → 買える(살 수 있다) → 買えない(살 수 없다).",
+    "examples": [
+      {
+        "tokens": [{"t": "明日", "r": "あした"}, {"t": "は"}, {"t": "雨", "r": "あめ"}, {"t": "らしい。"}],
+        "korean": "내일은 비 온대."
+      },
+      {
+        "tokens": [{"t": "あの"}, {"t": "店", "r": "みせ"}, {"t": "、おいしいらしいよ。"}],
+        "korean": "저 가게 맛있대."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-105",
+    "tokens": [{"t": "運動", "r": "うんどう"}, {"t": "しなきゃ。（しない）"}],
+    "korean": "운동해야지. (안 함)",
+    "literal": null,
+    "punchline": "괄호가 본문.",
+    "category": "life",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "運動", "reading": "うんどう", "meaning": "운동", "note": null},
+      {"word": "しなきゃ", "reading": "しなきゃ", "meaning": "해야 해", "note": "しなければ의 회화체"}
+    ],
+    "grammarIds": ["nakya"],
+    "nuance": "なきゃ는 なければならない를 확 줄인 말. 말로만 의무감을 느끼는 사람의 단골 문장이에요.",
+    "memoTip": "行かなきゃ(가야 해), 寝なきゃ(자야 해).",
+    "examples": [
+      {
+        "tokens": [{"t": "もう"}, {"t": "寝", "r": "ね"}, {"t": "なきゃ。"}],
+        "korean": "이제 자야 해."
+      },
+      {
+        "tokens": [{"t": "早", "r": "はや"}, {"t": "く"}, {"t": "行", "r": "い"}, {"t": "かなきゃ。"}],
+        "korean": "빨리 가야 해."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-108",
+    "tokens": [{"t": "今日", "r": "きょう"}, {"t": "も"}, {"t": "一日", "r": "いちにち"}, {"t": "、よく"}, {"t": "耐", "r": "た"}, {"t": "えた。"}],
+    "korean": "오늘도 하루, 잘 버텼다.",
+    "literal": null,
+    "punchline": "내일도 버텨야 함.",
+    "category": "reality",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "今日", "reading": "きょう", "meaning": "오늘", "note": null},
+      {"word": "一日", "reading": "いちにち", "meaning": "하루", "note": null},
+      {"word": "耐える", "reading": "たえる", "meaning": "버티다, 견디다", "note": null}
+    ],
+    "grammarIds": ["ta-past"],
+    "nuance": "よく + 과거형 = '용케 ~했다'. 스스로를 칭찬하는 말투예요. 耐える는 참고 견딘다는 무거운 말이라 일상에 쓰면 비장해서 웃겨요.",
+    "memoTip": "よく頑張った = 잘했어, 수고했어.",
+    "examples": [
+      {
+        "tokens": [{"t": "昨日", "r": "きのう"}, {"t": "は"}, {"t": "早", "r": "はや"}, {"t": "く"}, {"t": "寝", "r": "ね"}, {"t": "た。"}],
+        "korean": "어제는 일찍 잤다."
+      },
+      {
+        "tokens": [{"t": "全部", "r": "ぜんぶ"}, {"t": "食", "r": "た"}, {"t": "べた。"}],
+        "korean": "전부 먹었다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "real-103",
+    "tokens": [{"t": "それな。"}],
+    "korean": "ㄹㅇ. 그니까.",
+    "literal": "그거 말이야.",
+    "punchline": "대화의 80%는 이걸로 해결.",
+    "category": "real",
+    "jlpt": "N5",
+    "politeness": "casual",
+    "usageNote": "윗사람에게는 쓰지 마세요.",
+    "keywords": [],
+    "words": [
+      {"word": "それ", "reading": "それ", "meaning": "그것", "note": null},
+      {"word": "な", "reading": "な", "meaning": "~지, ~네", "note": "종조사"}
+    ],
+    "grammarIds": ["sentence-na"],
+    "nuance": "남의 말에 '그니까, ㄹㅇ'라고 맞장구치는 젊은 층 말투예요. それな 하나로 대화가 굴러가요.",
+    "memoTip": "더 격하게 동의할 땐 「それな〜！」.",
+    "examples": [
+      {
+        "tokens": [{"t": "いい"}, {"t": "天気", "r": "てんき"}, {"t": "だな。"}],
+        "korean": "날씨 좋네."
+      },
+      {
+        "tokens": [{"t": "疲", "r": "つか"}, {"t": "れたな。"}],
+        "korean": "피곤하네."
+      }
+    ],
+    "sourceType": "internet",
+    "source": "일본 젊은 층 인터넷 유행어",
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "real-104",
+    "tokens": [{"t": "ワンチャンある？"}],
+    "korean": "혹시 가능성 있어?",
+    "literal": null,
+    "punchline": "없음.",
+    "category": "real",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "ワンチャン", "reading": "ワンチャン", "meaning": "혹시 모를 가능성", "note": "one chance에서 온 말"},
+      {"word": "ある", "reading": "ある", "meaning": "있다", "note": null}
+    ],
+    "grammarIds": ["casual-question"],
+    "nuance": "ワンチャン은 '한 번의 기회', 즉 '어쩌면 될지도'. 가능성이 낮은 걸 알면서도 기대할 때 써요.",
+    "memoTip": "ワンチャンいける = 어쩌면 될지도.",
+    "examples": [
+      {
+        "tokens": [{"t": "明日", "r": "あした"}, {"t": "、"}, {"t": "暇", "r": "ひま"}, {"t": "？"}],
+        "korean": "내일 한가해?"
+      },
+      {
+        "tokens": [{"t": "これ、"}, {"t": "食", "r": "た"}, {"t": "べる？"}],
+        "korean": "이거 먹을래?"
+      }
+    ],
+    "sourceType": "internet",
+    "source": "일본 젊은 층 인터넷 유행어",
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-107",
+    "tokens": [{"t": "明日", "r": "あした"}, {"t": "だけでいいので、"}, {"t": "台風", "r": "たいふう"}, {"t": "で"}, {"t": "会社", "r": "かいしゃ"}, {"t": "が"}, {"t": "休", "r": "やす"}, {"t": "みになってほしいです。"}],
+    "korean": "내일 하루만이라도, 태풍 때문에 회사가 쉬었으면 좋겠어요.",
+    "literal": "내일만이라도 좋으니까, 태풍으로 회사가 휴일이 됐으면 좋겠어요.",
+    "punchline": "출근 전날 밤 일기예보만 다섯 번 봄.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "台風", "reading": "たいふう", "meaning": "태풍", "note": null},
+      {"word": "会社", "reading": "かいしゃ", "meaning": "회사", "note": null},
+      {"word": "休み", "reading": "やすみ", "meaning": "쉼, 휴일", "note": null}
+    ],
+    "grammarIds": ["te-hoshii", "node"],
+    "nuance": "てほしい는 남이나 상황이 '~해 줬으면' 하는 바람이에요. だけでいいので로 소원의 크기를 겸손하게 줄이는 게 포인트.",
+    "memoTip": "〜になる = ~이 되다. 休みになる = 휴일이 되다.",
+    "examples": [
+      {
+        "tokens": [{"t": "早", "r": "はや"}, {"t": "く"}, {"t": "春", "r": "はる"}, {"t": "になってほしい。"}],
+        "korean": "빨리 봄이 됐으면 좋겠다."
+      },
+      {
+        "tokens": [{"t": "もっと"}, {"t": "話", "r": "はな"}, {"t": "してほしい。"}],
+        "korean": "더 얘기해 줬으면 좋겠어."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-106",
+    "tokens": [{"t": "苦労", "r": "くろう"}, {"t": "を"}, {"t": "乗", "r": "の"}, {"t": "り"}, {"t": "越", "r": "こ"}, {"t": "えたら、"}, {"t": "次", "r": "つぎ"}, {"t": "の"}, {"t": "苦労", "r": "くろう"}, {"t": "が"}, {"t": "待", "r": "ま"}, {"t": "っていました。"}],
+    "korean": "고생을 넘어서니 다음 고생이 기다리고 있었습니다.",
+    "literal": null,
+    "punchline": "'고생 끝에 낙이 온다'는 마케팅이었다.",
+    "category": "life",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "苦労", "reading": "くろう", "meaning": "고생", "note": null},
+      {"word": "乗り越える", "reading": "のりこえる", "meaning": "극복하다, 넘어서다", "note": null},
+      {"word": "次", "reading": "つぎ", "meaning": "다음", "note": null},
+      {"word": "待つ", "reading": "まつ", "meaning": "기다리다", "note": null}
+    ],
+    "grammarIds": ["tara", "te-iru"],
+    "nuance": "たら는 '~했더니'라는 발견의 뜻도 있어요. 희망찬 乗り越えたら 뒤에 같은 단어 苦労가 다시 나오는 반전이 포인트.",
+    "memoTip": "苦労した = 고생했다. 「ご苦労さま」의 그 苦労.",
+    "examples": [
+      {
+        "tokens": [{"t": "家", "r": "いえ"}, {"t": "に"}, {"t": "帰", "r": "かえ"}, {"t": "ったら、"}, {"t": "誰", "r": "だれ"}, {"t": "もいなかった。"}],
+        "korean": "집에 돌아갔더니 아무도 없었다."
+      },
+      {
+        "tokens": [{"t": "駅", "r": "えき"}, {"t": "で"}, {"t": "友達", "r": "ともだち"}, {"t": "が"}, {"t": "待", "r": "ま"}, {"t": "っていた。"}],
+        "korean": "역에서 친구가 기다리고 있었다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-106",
+    "tokens": [{"t": "私", "r": "わたし"}, {"t": "の"}, {"t": "努力", "r": "どりょく"}, {"t": "に"}, {"t": "比", "r": "くら"}, {"t": "べて、"}, {"t": "給料", "r": "きゅうりょう"}, {"t": "が"}, {"t": "控", "r": "ひか"}, {"t": "えめすぎます。"}],
+    "korean": "제 노력에 비해 월급이 너무 겸손합니다.",
+    "literal": "제 노력에 비해 월급이 너무 삼가는 편입니다.",
+    "punchline": "정중하게 화내는 법.",
+    "category": "money",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "연봉 협상 때는 「もう少し上がると嬉しいです」 정도로.",
+    "keywords": [],
+    "words": [
+      {"word": "努力", "reading": "どりょく", "meaning": "노력", "note": null},
+      {"word": "比べる", "reading": "くらべる", "meaning": "비교하다", "note": null},
+      {"word": "給料", "reading": "きゅうりょう", "meaning": "월급", "note": null},
+      {"word": "控えめ", "reading": "ひかえめ", "meaning": "조심스러움, 적은 편", "note": "な형용사"}
+    ],
+    "grammarIds": ["ni-kurabete", "sugiru"],
+    "nuance": "控えめ는 사람 성격이나 맛을 말할 때 쓰는 '조심스러운, 적당한'. 그걸 월급에 붙여서 정중하게 비꼬는 느낌.",
+    "memoTip": "甘さ控えめ = 덜 단 맛(과자 포장에 자주 나와요).",
+    "examples": [
+      {
+        "tokens": [{"t": "去年", "r": "きょねん"}, {"t": "に"}, {"t": "比", "r": "くら"}, {"t": "べて"}, {"t": "暑", "r": "あつ"}, {"t": "い。"}],
+        "korean": "작년에 비해 덥다."
+      },
+      {
+        "tokens": [{"t": "兄", "r": "あに"}, {"t": "に"}, {"t": "比", "r": "くら"}, {"t": "べて"}, {"t": "背", "r": "せ"}, {"t": "が"}, {"t": "低", "r": "ひく"}, {"t": "い。"}],
+        "korean": "형에 비해 키가 작다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-108",
+    "tokens": [{"t": "ちゃんと"}, {"t": "出社", "r": "しゅっしゃ"}, {"t": "したので、もう"}, {"t": "帰", "r": "かえ"}, {"t": "ってもいいですよね？"}],
+    "korean": "제대로 출근했으니까, 이제 퇴근해도 되는 거죠?",
+    "literal": null,
+    "punchline": "출근 자체가 오늘의 업무.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "실제로 상사에게 말하면 내일부터 출근할 필요가 없어질 수도.",
+    "keywords": [],
+    "words": [
+      {"word": "ちゃんと", "reading": "ちゃんと", "meaning": "제대로, 착실히", "note": null},
+      {"word": "出社", "reading": "しゅっしゃ", "meaning": "출근(회사에 나감)", "note": null},
+      {"word": "帰る", "reading": "かえる", "meaning": "집에 가다", "note": null}
+    ],
+    "grammarIds": ["node", "te-mo-ii"],
+    "nuance": "ので는 から보다 부드럽고 정중한 '~니까'. ですよね로 당연하다는 듯 동의를 구하는 게 웃음 포인트.",
+    "memoTip": "てもいい = ~해도 된다. 허락 구할 때는 「帰ってもいいですか？」.",
+    "examples": [
+      {
+        "tokens": [{"t": "雨", "r": "あめ"}, {"t": "なので、"}, {"t": "家", "r": "いえ"}, {"t": "にいます。"}],
+        "korean": "비가 와서 집에 있어요."
+      },
+      {
+        "tokens": [{"t": "ここで"}, {"t": "写真", "r": "しゃしん"}, {"t": "を"}, {"t": "撮", "r": "と"}, {"t": "ってもいいですか？"}],
+        "korean": "여기서 사진 찍어도 돼요?"
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-109",
+    "tokens": [{"t": "誰", "r": "だれ"}, {"t": "かがやるべきことなら、きっと"}, {"t": "誰", "r": "だれ"}, {"t": "かがやってくれます。"}],
+    "korean": "누군가 해야 할 일이라면, 분명 누군가 해 줄 거예요.",
+    "literal": null,
+    "punchline": "그 누군가는 절대 내가 아님.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "誰か", "reading": "だれか", "meaning": "누군가", "note": null},
+      {"word": "べき", "reading": "べき", "meaning": "~해야 할", "note": "동사 사전형 + べき"},
+      {"word": "きっと", "reading": "きっと", "meaning": "분명, 틀림없이", "note": null}
+    ],
+    "grammarIds": ["nara", "te-kureru"],
+    "nuance": "책임감 있는 문장처럼 시작해서 남에게 떠넘기며 끝나요. やってくれる(해 준다)가 남의 선의에 기대는 태도를 드러내요.",
+    "memoTip": "〜べき = ~해야 할(당위). 行くべき = 가야 한다.",
+    "examples": [
+      {
+        "tokens": [{"t": "行", "r": "い"}, {"t": "くなら、"}, {"t": "一緒", "r": "いっしょ"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "こう。"}],
+        "korean": "갈 거면 같이 가자."
+      },
+      {
+        "tokens": [{"t": "友達", "r": "ともだち"}, {"t": "が"}, {"t": "手伝", "r": "てつだ"}, {"t": "ってくれた。"}],
+        "korean": "친구가 도와줬다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-109",
+    "tokens": [{"t": "この"}, {"t": "部屋", "r": "へや"}, {"t": "では、"}, {"t": "私", "r": "わたし"}, {"t": "がルールです。"}],
+    "korean": "이 방에서는 제가 곧 규칙입니다.",
+    "literal": null,
+    "punchline": "이의 제기는 받지 않습니다.",
+    "category": "meme",
+    "jlpt": "N4",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "部屋", "reading": "へや", "meaning": "방", "note": null},
+      {"word": "私", "reading": "わたし", "meaning": "나, 저", "note": null},
+      {"word": "ルール", "reading": "るーる", "meaning": "규칙", "note": null}
+    ],
+    "grammarIds": ["desu"],
+    "nuance": "が를 써서 '다른 누구도 아닌 내가' 규칙이라는 강조가 돼요. では는 범위를 정하는 말이라 이 방 안에서만은 절대 권력.",
+    "memoTip": "〜では = ~에서는. 日本では = 일본에서는.",
+    "examples": [
+      {
+        "tokens": [{"t": "私", "r": "わたし"}, {"t": "が"}, {"t": "社長", "r": "しゃちょう"}, {"t": "です。"}],
+        "korean": "제가 사장입니다."
+      },
+      {
+        "tokens": [{"t": "これが"}, {"t": "答", "r": "こた"}, {"t": "えです。"}],
+        "korean": "이게 정답입니다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-110",
+    "tokens": [{"t": "まあ、"}, {"t": "庶民", "r": "しょみん"}, {"t": "の"}, {"t": "生活", "r": "せいかつ"}, {"t": "って"}, {"t": "大変", "r": "たいへん"}, {"t": "なのね。"}],
+    "korean": "어머, 서민의 생활이란 힘든 거구나.",
+    "literal": null,
+    "punchline": "(통장 잔고 3만 원)",
+    "category": "meme",
+    "jlpt": "N2",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "庶民", "reading": "しょみん", "meaning": "서민", "note": null},
+      {"word": "生活", "reading": "せいかつ", "meaning": "생활", "note": null},
+      {"word": "大変", "reading": "たいへん", "meaning": "힘듦", "note": null}
+    ],
+    "grammarIds": ["sentence-ne"],
+    "nuance": "まあ와 なのね는 남 일처럼 우아하게 놀라는 아가씨 말투예요. 정작 본인이 서민이라는 게 포인트.",
+    "memoTip": "一人暮らし = 자취. 生活費 = 생활비.",
+    "examples": [
+      {
+        "tokens": [{"t": "今日", "r": "きょう"}, {"t": "は"}, {"t": "暑", "r": "あつ"}, {"t": "いね。"}],
+        "korean": "오늘 덥네."
+      },
+      {
+        "tokens": [{"t": "それ、いいね。"}],
+        "korean": "그거 좋네."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-111",
+    "tokens": [{"t": "姫", "r": "ひめ"}, {"t": "の"}, {"t": "朝", "r": "あさ"}, {"t": "はランチタイムからです。"}],
+    "korean": "공주의 아침은 점심시간부터입니다.",
+    "literal": null,
+    "punchline": "아침이라는 개념은 서민의 것.",
+    "category": "meme",
+    "jlpt": "N4",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "姫", "reading": "ひめ", "meaning": "공주", "note": null},
+      {"word": "朝", "reading": "あさ", "meaning": "아침", "note": null},
+      {"word": "ランチタイム", "reading": "らんちたいむ", "meaning": "점심시간", "note": null}
+    ],
+    "grammarIds": ["kara-start", "desu"],
+    "nuance": "늦잠을 우아하게 포장하는 문장이에요. 姫는 일본 인터넷에서 제멋대로인 자신을 공주라 칭하는 농담에 자주 써요.",
+    "memoTip": "お姫様(おひめさま) = 공주님.",
+    "examples": [
+      {
+        "tokens": [{"t": "授業", "r": "じゅぎょう"}, {"t": "は"}, {"t": "九時", "r": "くじ"}, {"t": "からです。"}],
+        "korean": "수업은 9시부터예요."
+      },
+      {
+        "tokens": [{"t": "夏休", "r": "なつやす"}, {"t": "みは"}, {"t": "来週", "r": "らいしゅう"}, {"t": "からです。"}],
+        "korean": "여름방학은 다음 주부터예요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-105",
+    "tokens": [{"t": "王子様", "r": "おうじさま"}, {"t": "、"}, {"t": "迎", "r": "むか"}, {"t": "えに"}, {"t": "来", "r": "く"}, {"t": "るのが"}, {"t": "遅", "r": "おそ"}, {"t": "すぎですわ。"}],
+    "korean": "왕자님, 데리러 오시는 게 너무 늦으시네요.",
+    "literal": null,
+    "punchline": "연애 경험 0, 기대치 100.",
+    "category": "love",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": "실제 대화에서 쓰면 캐릭터 연기로 들려요.",
+    "keywords": [],
+    "words": [
+      {"word": "王子様", "reading": "おうじさま", "meaning": "왕자님", "note": null},
+      {"word": "迎え", "reading": "むかえ", "meaning": "마중, 데리러 옴", "note": null},
+      {"word": "遅い", "reading": "おそい", "meaning": "늦다", "note": null}
+    ],
+    "grammarIds": ["desuwa", "sugiru"],
+    "nuance": "ですわ는 만화 속 부잣집 아가씨 말투예요. 실제로는 거의 안 쓰지만 쓰는 순간 공주 캐릭터가 완성돼요.",
+    "memoTip": "迎えに行く = 데리러 가다, 迎えに来る = 데리러 오다.",
+    "examples": [
+      {
+        "tokens": [{"t": "素敵", "r": "すてき"}, {"t": "ですわ。"}],
+        "korean": "멋지네요."
+      },
+      {
+        "tokens": [{"t": "わたくし、お"}, {"t": "腹", "r": "なか"}, {"t": "が"}, {"t": "空", "r": "す"}, {"t": "きましたわ。"}],
+        "korean": "저, 배가 고파요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-112",
+    "tokens": [{"t": "この"}, {"t": "顔", "r": "かお"}, {"t": "に"}, {"t": "免", "r": "めん"}, {"t": "じて、"}, {"t": "許", "r": "ゆる"}, {"t": "してくれない？"}],
+    "korean": "이 얼굴을 봐서 용서해 주면 안 될까?",
+    "literal": null,
+    "punchline": "안 됩니다.",
+    "category": "meme",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "顔", "reading": "かお", "meaning": "얼굴", "note": null},
+      {"word": "免じる", "reading": "めんじる", "meaning": "~를 봐서 봐주다", "note": "〜に免じて의 형태로"},
+      {"word": "許す", "reading": "ゆるす", "meaning": "용서하다, 허락하다", "note": null}
+    ],
+    "grammarIds": ["te-kureru", "casual-question"],
+    "nuance": "〜に免じて는 '~의 체면을 봐서'라는 관용 표현이에요. 그걸 자기 얼굴에 쓰는 근자감이 포인트.",
+    "memoTip": "〜てくれない？ = ~해 주지 않을래?(부탁).",
+    "examples": [
+      {
+        "tokens": [{"t": "ちょっと"}, {"t": "手伝", "r": "てつだ"}, {"t": "ってくれない？"}],
+        "korean": "좀 도와주지 않을래?"
+      },
+      {
+        "tokens": [{"t": "それ、"}, {"t": "知", "r": "し"}, {"t": "ってる？"}],
+        "korean": "그거 알아?"
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-106",
+    "tokens": [{"t": "振", "r": "ふ"}, {"t": "るなら、せめて"}, {"t": "前世", "r": "ぜんせ"}, {"t": "で"}, {"t": "言", "r": "い"}, {"t": "ってほしかった。"}],
+    "korean": "찰 거면 적어도 전생에 말해 줬으면 했어.",
+    "literal": null,
+    "punchline": "다음 생엔 미리 준비함.",
+    "category": "love",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "振る", "reading": "ふる", "meaning": "(연인을) 차다", "note": null},
+      {"word": "せめて", "reading": "せめて", "meaning": "적어도", "note": null},
+      {"word": "前世", "reading": "ぜんせ", "meaning": "전생", "note": null}
+    ],
+    "grammarIds": ["nara", "te-hoshii"],
+    "nuance": "'미리 말해 줬어야지'를 전생까지 끌고 간 과장이 포인트. てほしかった는 이미 지난 일에 대한 서운함이에요.",
+    "memoTip": "振られた = 차였다. 恋人に振られた = 애인에게 차였다.",
+    "examples": [
+      {
+        "tokens": [{"t": "行", "r": "い"}, {"t": "くなら、"}, {"t": "一緒", "r": "いっしょ"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "こう。"}],
+        "korean": "갈 거면 같이 가자."
+      },
+      {
+        "tokens": [{"t": "寒", "r": "さむ"}, {"t": "いなら、"}, {"t": "窓", "r": "まど"}, {"t": "を"}, {"t": "閉", "r": "し"}, {"t": "めて。"}],
+        "korean": "추우면 창문 닫아."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-107",
+    "tokens": [{"t": "私", "r": "わたし"}, {"t": "以外", "r": "いがい"}, {"t": "の"}, {"t": "人", "r": "ひと"}, {"t": "と、"}, {"t": "同", "r": "おな"}, {"t": "じ"}, {"t": "地球", "r": "ちきゅう"}, {"t": "に"}, {"t": "住", "r": "す"}, {"t": "まないで。"}],
+    "korean": "나 말고 다른 사람이랑 같은 지구에 살지 마.",
+    "literal": null,
+    "punchline": "독점 계약 범위: 행성 단위.",
+    "category": "love",
+    "jlpt": "N3",
+    "politeness": "casual",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "以外", "reading": "いがい", "meaning": "~이외", "note": null},
+      {"word": "同じ", "reading": "おなじ", "meaning": "같은", "note": null},
+      {"word": "地球", "reading": "ちきゅう", "meaning": "지구", "note": null},
+      {"word": "住む", "reading": "すむ", "meaning": "살다", "note": null}
+    ],
+    "grammarIds": ["naide"],
+    "nuance": "'다른 사람이랑 말하지 마'를 넘어 '같은 행성에도 살지 마'까지 간 극단적 집착 개그예요. ないで는 부드러운 금지.",
+    "memoTip": "同じ는 명사 앞에서 な 없이 바로: 同じ人, 同じ地球.",
+    "examples": [
+      {
+        "tokens": [{"t": "忘", "r": "わす"}, {"t": "れないで。"}],
+        "korean": "잊지 마."
+      },
+      {
+        "tokens": [{"t": "心配", "r": "しんぱい"}, {"t": "しないで。"}],
+        "korean": "걱정하지 마."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-110",
+    "tokens": [{"t": "本日", "r": "ほんじつ"}, {"t": "の"}, {"t": "出社", "r": "しゅっしゃ"}, {"t": "確率", "r": "かくりつ"}, {"t": "は、ほぼゼロパーセントと"}, {"t": "予想", "r": "よそう"}, {"t": "されています。"}],
+    "korean": "오늘의 출근 확률은 거의 0퍼센트로 예상되고 있습니다.",
+    "literal": null,
+    "punchline": "기상청보다 정확함.",
+    "category": "work",
+    "jlpt": "N2",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "本日", "reading": "ほんじつ", "meaning": "오늘", "note": "今日의 격식체"},
+      {"word": "確率", "reading": "かくりつ", "meaning": "확률", "note": null},
+      {"word": "予想", "reading": "よそう", "meaning": "예상", "note": null}
+    ],
+    "grammarIds": ["passive"],
+    "nuance": "일기예보 말투로 출근 거부를 발표하는 문장이에요. 本日, 予想される 같은 딱딱한 말이 진지할수록 웃겨요.",
+    "memoTip": "降水確率 = 강수 확률. 일기예보 단골 단어.",
+    "examples": [
+      {
+        "tokens": [{"t": "明日", "r": "あした"}, {"t": "は"}, {"t": "晴", "r": "は"}, {"t": "れると"}, {"t": "言", "r": "い"}, {"t": "われています。"}],
+        "korean": "내일은 맑을 거라고 합니다."
+      },
+      {
+        "tokens": [{"t": "この"}, {"t": "本", "r": "ほん"}, {"t": "は"}, {"t": "世界中", "r": "せかいじゅう"}, {"t": "で"}, {"t": "読", "r": "よ"}, {"t": "まれています。"}],
+        "korean": "이 책은 전 세계에서 읽히고 있습니다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-111",
+    "tokens": [{"t": "布団", "r": "ふとん"}, {"t": "との"}, {"t": "会議", "r": "かいぎ"}, {"t": "が、"}, {"t": "予定", "r": "よてい"}, {"t": "より"}, {"t": "長引", "r": "ながび"}, {"t": "いております。"}],
+    "korean": "이불과의 회의가 예정보다 길어지고 있습니다.",
+    "literal": null,
+    "punchline": "안건: 5분만 더.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "humble",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "布団", "reading": "ふとん", "meaning": "이불", "note": null},
+      {"word": "会議", "reading": "かいぎ", "meaning": "회의", "note": null},
+      {"word": "予定", "reading": "よてい", "meaning": "예정", "note": null},
+      {"word": "長引く", "reading": "ながびく", "meaning": "길어지다, 지연되다", "note": null}
+    ],
+    "grammarIds": ["te-iru", "yori"],
+    "nuance": "늦잠을 회사 말투로 포장한 문장이에요. ております는 ています의 겸양어라 거래처에 보내는 지연 안내처럼 들려요.",
+    "memoTip": "会議が長引く = 회의가 길어지다.",
+    "examples": [
+      {
+        "tokens": [{"t": "今", "r": "いま"}, {"t": "、"}, {"t": "雨", "r": "あめ"}, {"t": "が"}, {"t": "降", "r": "ふ"}, {"t": "っています。"}],
+        "korean": "지금 비가 오고 있어요."
+      },
+      {
+        "tokens": [{"t": "思", "r": "おも"}, {"t": "ったより"}, {"t": "高", "r": "たか"}, {"t": "い。"}],
+        "korean": "생각보다 비싸다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-112",
+    "tokens": [{"t": "会社", "r": "かいしゃ"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "くには、まだ"}, {"t": "心", "r": "こころ"}, {"t": "の"}, {"t": "準備", "r": "じゅんび"}, {"t": "ができていません。"}],
+    "korean": "회사에 가기엔 아직 마음의 준비가 안 됐습니다.",
+    "literal": null,
+    "punchline": "준비 완료 예정: 금요일 오후.",
+    "category": "work",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "会社", "reading": "かいしゃ", "meaning": "회사", "note": null},
+      {"word": "心", "reading": "こころ", "meaning": "마음", "note": null},
+      {"word": "準備", "reading": "じゅんび", "meaning": "준비", "note": null}
+    ],
+    "grammarIds": ["ni-wa", "te-iru"],
+    "nuance": "心の準備ができていない는 원래 큰일 앞에서 쓰는 말인데, 그걸 평범한 출근에 붙여서 비장해져요.",
+    "memoTip": "準備ができる = 준비가 되다. 「準備できた？」 = 준비됐어?",
+    "examples": [
+      {
+        "tokens": [{"t": "東京", "r": "とうきょう"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "くには、お"}, {"t": "金", "r": "かね"}, {"t": "がいる。"}],
+        "korean": "도쿄에 가려면 돈이 든다."
+      },
+      {
+        "tokens": [{"t": "一人", "r": "ひとり"}, {"t": "で"}, {"t": "食", "r": "た"}, {"t": "べるには"}, {"t": "多", "r": "おお"}, {"t": "い。"}],
+        "korean": "혼자 먹기엔 많다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-109",
+    "tokens": [{"t": "今朝", "r": "けさ"}, {"t": "は、"}, {"t": "働", "r": "はたら"}, {"t": "くのに"}, {"t": "向", "r": "む"}, {"t": "いていない"}, {"t": "天気", "r": "てんき"}, {"t": "です。"}],
+    "korean": "오늘 아침은 일하기에 맞지 않는 날씨입니다.",
+    "literal": null,
+    "punchline": "참고로 매일 아침이 그렇습니다.",
+    "category": "reality",
+    "jlpt": "N3",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "今朝", "reading": "けさ", "meaning": "오늘 아침", "note": null},
+      {"word": "働く", "reading": "はたらく", "meaning": "일하다", "note": null},
+      {"word": "向く", "reading": "むく", "meaning": "적합하다, 맞다", "note": "〜に向いている"},
+      {"word": "天気", "reading": "てんき", "meaning": "날씨", "note": null}
+    ],
+    "grammarIds": ["te-iru", "desu"],
+    "nuance": "날씨 예보처럼 '오늘은 노동 부적합'을 선언하는 문장이에요. 向いていない는 상태를 나타내는 ている.",
+    "memoTip": "〜のに向いている = ~하기에 알맞다. 料理に向いている = 요리에 맞다.",
+    "examples": [
+      {
+        "tokens": [{"t": "窓", "r": "まど"}, {"t": "が"}, {"t": "開", "r": "あ"}, {"t": "いています。"}],
+        "korean": "창문이 열려 있어요."
+      },
+      {
+        "tokens": [{"t": "この"}, {"t": "靴", "r": "くつ"}, {"t": "は"}, {"t": "走", "r": "はし"}, {"t": "るのに"}, {"t": "向", "r": "む"}, {"t": "いている。"}],
+        "korean": "이 신발은 달리기에 알맞다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "work-113",
+    "tokens": [{"t": "出勤", "r": "しゅっきん"}, {"t": "に"}, {"t": "関", "r": "かん"}, {"t": "するご"}, {"t": "質問", "r": "しつもん"}, {"t": "は、"}, {"t": "明日", "r": "あした"}, {"t": "以降", "r": "いこう"}, {"t": "にお"}, {"t": "願", "r": "ねが"}, {"t": "いいたします。"}],
+    "korean": "출근에 관한 질문은 내일 이후에 부탁드립니다.",
+    "literal": null,
+    "punchline": "내일도 같은 안내가 나갑니다.",
+    "category": "work",
+    "jlpt": "N2",
+    "politeness": "humble",
+    "usageNote": null,
+    "keywords": [],
+    "words": [
+      {"word": "出勤", "reading": "しゅっきん", "meaning": "출근", "note": null},
+      {"word": "質問", "reading": "しつもん", "meaning": "질문", "note": null},
+      {"word": "以降", "reading": "いこう", "meaning": "이후", "note": null}
+    ],
+    "grammarIds": ["ni-kansuru"],
+    "nuance": "고객센터 안내 멘트 말투로 출근 이야기를 피하는 문장이에요. お願いいたします는 お願いします보다 한층 낮춘 겸양 표현.",
+    "memoTip": "〜に関する + 명사, 〜に関して + 동사.",
+    "examples": [
+      {
+        "tokens": [{"t": "旅行", "r": "りょこう"}, {"t": "に"}, {"t": "関", "r": "かん"}, {"t": "する"}, {"t": "本", "r": "ほん"}, {"t": "。"}],
+        "korean": "여행에 관한 책."
+      },
+      {
+        "tokens": [{"t": "この"}, {"t": "件", "r": "けん"}, {"t": "に"}, {"t": "関", "r": "かん"}, {"t": "して"}, {"t": "質問", "r": "しつもん"}, {"t": "があります。"}],
+        "korean": "이 건에 관해 질문이 있습니다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
   }
 ]
