@@ -2470,5 +2470,353 @@
     "featuredDates": [],
     "createdAt": "2026-10-04",
     "status": "published"
+  },
+  {
+    "id": "work-114",
+    "tokens": [{"t": "会社", "r": "かいしゃ"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "きたくないです。"}],
+    "korean": "회사 가기 싫어요.",
+    "literal": null,
+    "punchline": "매일 아침 7시의 진심.",
+    "category": "work",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": "상사 앞에서는 「今日はちょっと…」 정도로 흐리세요.",
+    "keywords": ["출근", "회사"],
+    "words": [
+      {"word": "会社", "reading": "かいしゃ", "meaning": "회사", "note": null},
+      {"word": "行く", "reading": "いく", "meaning": "가다", "note": null}
+    ],
+    "grammarIds": ["tai"],
+    "nuance": "たくない는 たい(~하고 싶다)의 부정형이에요. 정중한 です를 붙여서 공손하게 출근을 거부하는 게 포인트.",
+    "memoTip": "たい → たくない(~하기 싫다). い형용사처럼 바뀌어요.",
+    "examples": [
+      {
+        "tokens": [{"t": "学校", "r": "がっこう"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "きたくない。"}],
+        "korean": "학교 가기 싫어."
+      },
+      {
+        "tokens": [{"t": "今日", "r": "きょう"}, {"t": "は"}, {"t": "働", "r": "はたら"}, {"t": "きたくないです。"}],
+        "korean": "오늘은 일하기 싫어요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-107",
+    "tokens": [{"t": "財布", "r": "さいふ"}, {"t": "の"}, {"t": "中", "r": "なか"}, {"t": "は、レシートだけです。"}],
+    "korean": "지갑 속엔 영수증뿐이에요.",
+    "literal": null,
+    "punchline": "돈 대신 추억이 쌓임.",
+    "category": "money",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["지갑", "돈"],
+    "words": [
+      {"word": "財布", "reading": "さいふ", "meaning": "지갑", "note": null},
+      {"word": "中", "reading": "なか", "meaning": "안, 속", "note": null},
+      {"word": "レシート", "reading": "れしーと", "meaning": "영수증", "note": null}
+    ],
+    "grammarIds": ["desu"],
+    "nuance": "だけ는 '~만, ~뿐'. 돈은 사라지고 영수증만 남은 지갑을 정중하게 보고하는 문장이에요.",
+    "memoTip": "〜だけ = ~만, ~뿐. 一つだけ = 하나만.",
+    "examples": [
+      {
+        "tokens": [{"t": "かばんの"}, {"t": "中", "r": "なか"}, {"t": "は"}, {"t": "本", "r": "ほん"}, {"t": "だけです。"}],
+        "korean": "가방 속엔 책뿐이에요."
+      },
+      {
+        "tokens": [{"t": "お"}, {"t": "金", "r": "かね"}, {"t": "は"}, {"t": "千円", "r": "せんえん"}, {"t": "だけです。"}],
+        "korean": "돈은 천 엔뿐이에요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-107",
+    "tokens": [{"t": "宿題", "r": "しゅくだい"}, {"t": "は、"}, {"t": "明日", "r": "あした"}, {"t": "の"}, {"t": "私", "r": "わたし"}, {"t": "がします。"}],
+    "korean": "숙제는 내일의 내가 할게요.",
+    "literal": null,
+    "punchline": "내일의 나: (같은 말을 함)",
+    "category": "life",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["숙제", "미루기"],
+    "words": [
+      {"word": "宿題", "reading": "しゅくだい", "meaning": "숙제", "note": null},
+      {"word": "明日", "reading": "あした", "meaning": "내일", "note": null},
+      {"word": "私", "reading": "わたし", "meaning": "나, 저", "note": null}
+    ],
+    "grammarIds": ["masu"],
+    "nuance": "미래의 나에게 일을 넘기는 문장이에요. が를 써서 '오늘의 내가 아니라 내일의 내가'라고 콕 집어요.",
+    "memoTip": "する → します(정중). 宿題をする = 숙제를 하다.",
+    "examples": [
+      {
+        "tokens": [{"t": "掃除", "r": "そうじ"}, {"t": "は"}, {"t": "明日", "r": "あした"}, {"t": "します。"}],
+        "korean": "청소는 내일 할게요."
+      },
+      {
+        "tokens": [{"t": "料理", "r": "りょうり"}, {"t": "は"}, {"t": "私", "r": "わたし"}, {"t": "がします。"}],
+        "korean": "요리는 제가 할게요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "reality-110",
+    "tokens": [{"t": "月曜日", "r": "げつようび"}, {"t": "の"}, {"t": "朝", "r": "あさ"}, {"t": "は、"}, {"t": "寒", "r": "さむ"}, {"t": "くて"}, {"t": "暗", "r": "くら"}, {"t": "いです。"}],
+    "korean": "월요일 아침은 춥고 어두워요.",
+    "literal": null,
+    "punchline": "마음도 같이 춥고 어두움.",
+    "category": "reality",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["월요일", "아침"],
+    "words": [
+      {"word": "朝", "reading": "あさ", "meaning": "아침", "note": null},
+      {"word": "寒い", "reading": "さむい", "meaning": "춥다", "note": null},
+      {"word": "暗い", "reading": "くらい", "meaning": "어둡다", "note": null}
+    ],
+    "grammarIds": ["te-form", "desu"],
+    "nuance": "い형용사의 い를 くて로 바꾸면 '~하고'로 이어져요. 날씨 얘기 같지만 사실 마음 상태예요.",
+    "memoTip": "寒い → 寒くて, 暗い → 暗くて.",
+    "examples": [
+      {
+        "tokens": [{"t": "この"}, {"t": "部屋", "r": "へや"}, {"t": "は"}, {"t": "広", "r": "ひろ"}, {"t": "くて"}, {"t": "明", "r": "あか"}, {"t": "るいです。"}],
+        "korean": "이 방은 넓고 밝아요."
+      },
+      {
+        "tokens": [{"t": "この"}, {"t": "店", "r": "みせ"}, {"t": "は"}, {"t": "安", "r": "やす"}, {"t": "くておいしい。"}],
+        "korean": "이 가게는 싸고 맛있다."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "love-108",
+    "tokens": [{"t": "彼女", "r": "かのじょ"}, {"t": "はいません。"}, {"t": "猫", "r": "ねこ"}, {"t": "はいます。"}],
+    "korean": "여자친구는 없어요. 고양이는 있어요.",
+    "literal": null,
+    "punchline": "그래서 외롭지 않음. 아마도.",
+    "category": "love",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["솔로", "고양이"],
+    "words": [
+      {"word": "彼女", "reading": "かのじょ", "meaning": "여자친구, 그녀", "note": null},
+      {"word": "猫", "reading": "ねこ", "meaning": "고양이", "note": null},
+      {"word": "いる", "reading": "いる", "meaning": "(사람·동물이) 있다", "note": null}
+    ],
+    "grammarIds": ["masu"],
+    "nuance": "は가 두 번 나와서 '여자친구는 없지만, 고양이는 있다'는 대비가 돼요. 사람과 동물에는 ある가 아니라 いる를 써요.",
+    "memoTip": "사람·동물 = いる, 물건 = ある.",
+    "examples": [
+      {
+        "tokens": [{"t": "兄", "r": "あに"}, {"t": "はいません。"}, {"t": "姉", "r": "あね"}, {"t": "はいます。"}],
+        "korean": "형은 없어요. 누나는 있어요."
+      },
+      {
+        "tokens": [{"t": "机", "r": "つくえ"}, {"t": "の"}, {"t": "上", "r": "うえ"}, {"t": "に"}, {"t": "本", "r": "ほん"}, {"t": "があります。"}],
+        "korean": "책상 위에 책이 있어요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "meme-113",
+    "tokens": [{"t": "休", "r": "やす"}, {"t": "みの"}, {"t": "日", "r": "ひ"}, {"t": "は、ずっと"}, {"t": "寝", "r": "ね"}, {"t": "ています。"}],
+    "korean": "쉬는 날엔 계속 자고 있어요.",
+    "literal": null,
+    "punchline": "기상 시간: 저녁 6시.",
+    "category": "meme",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["휴일", "잠"],
+    "words": [
+      {"word": "休み", "reading": "やすみ", "meaning": "휴일, 쉼", "note": null},
+      {"word": "ずっと", "reading": "ずっと", "meaning": "계속, 줄곧", "note": null},
+      {"word": "寝る", "reading": "ねる", "meaning": "자다", "note": null}
+    ],
+    "grammarIds": ["te-iru"],
+    "nuance": "ている는 지금 하고 있는 일이나 습관을 나타내요. ずっと까지 붙으면 하루 종일이라는 뜻이 돼요.",
+    "memoTip": "寝る(자다) → 寝ています(자고 있어요).",
+    "examples": [
+      {
+        "tokens": [{"t": "毎日", "r": "まいにち"}, {"t": "、"}, {"t": "日本語", "r": "にほんご"}, {"t": "を"}, {"t": "勉強", "r": "べんきょう"}, {"t": "しています。"}],
+        "korean": "매일 일본어를 공부하고 있어요."
+      },
+      {
+        "tokens": [{"t": "父", "r": "ちち"}, {"t": "は"}, {"t": "会社", "r": "かいしゃ"}, {"t": "で"}, {"t": "働", "r": "はたら"}, {"t": "いています。"}],
+        "korean": "아버지는 회사에서 일하고 있어요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "real-105",
+    "tokens": [{"t": "すみません、もう"}, {"t": "一度", "r": "いちど"}, {"t": "お"}, {"t": "願", "r": "ねが"}, {"t": "いします。"}],
+    "korean": "죄송해요, 한 번 더 부탁드려요.",
+    "literal": null,
+    "punchline": "일본어 공부 3년 차의 생존 문장.",
+    "category": "real",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": "상사에게도 OK. 오히려 모르는 채로 넘어가는 게 위험해요.",
+    "keywords": ["여행", "회화"],
+    "words": [
+      {"word": "すみません", "reading": "すみません", "meaning": "죄송해요, 실례합니다", "note": null},
+      {"word": "もう一度", "reading": "もういちど", "meaning": "한 번 더", "note": null},
+      {"word": "お願いします", "reading": "おねがいします", "meaning": "부탁드려요", "note": null}
+    ],
+    "grammarIds": ["masu"],
+    "nuance": "못 알아들었을 때 쓰는 생존 문장이에요. すみません은 사과뿐 아니라 '저기요'처럼 말을 걸 때도 써요.",
+    "memoTip": "ゆっくりお願いします = 천천히 부탁드려요.",
+    "examples": [
+      {
+        "tokens": [{"t": "すみません、"}, {"t": "水", "r": "みず"}, {"t": "をお"}, {"t": "願", "r": "ねが"}, {"t": "いします。"}],
+        "korean": "저기요, 물 좀 부탁드려요."
+      },
+      {
+        "tokens": [{"t": "もう"}, {"t": "一度", "r": "いちど"}, {"t": "言", "r": "い"}, {"t": "ってください。"}],
+        "korean": "한 번 더 말해 주세요."
+      }
+    ],
+    "sourceType": "common",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "real-106",
+    "tokens": [{"t": "大丈夫", "r": "だいじょうぶ"}, {"t": "です。"}],
+    "korean": "괜찮아요.",
+    "literal": null,
+    "punchline": "일본에서 제일 헷갈리는 '괜찮아요'.",
+    "category": "real",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": "윗사람에게도 OK. 거절할 때는 「結構です」보다 부드러워요.",
+    "keywords": ["거절", "회화"],
+    "words": [
+      {"word": "大丈夫", "reading": "だいじょうぶ", "meaning": "괜찮음", "note": "な형용사"},
+      {"word": "です", "reading": "です", "meaning": "~입니다, ~해요", "note": "정중한 끝맺음"}
+    ],
+    "grammarIds": ["desu"],
+    "nuance": "괜찮다는 뜻이지만, 가게에서 「袋はいりますか？」 같은 질문에 답하면 '필요 없어요'라는 거절이 돼요. 일본인도 헷갈려하는 만능 표현.",
+    "memoTip": "大丈夫？ = 괜찮아?(반말).",
+    "examples": [
+      {
+        "tokens": [{"t": "A：コーヒー、いかがですか？"}, {"t": "B："}, {"t": "大丈夫", "r": "だいじょうぶ"}, {"t": "です。"}],
+        "korean": "A: 커피 드실래요? B: 괜찮아요(사양할게요)."
+      },
+      {
+        "tokens": [{"t": "けがは"}, {"t": "大丈夫", "r": "だいじょうぶ"}, {"t": "ですか？"}],
+        "korean": "다친 데는 괜찮아요?"
+      }
+    ],
+    "sourceType": "common",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "money-108",
+    "tokens": [{"t": "高", "r": "たか"}, {"t": "いですね。また"}, {"t": "来", "r": "き"}, {"t": "ます。"}],
+    "korean": "비싸네요. 다음에 또 올게요.",
+    "literal": null,
+    "punchline": "그리고 다시는 오지 않았다.",
+    "category": "money",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["쇼핑", "가격"],
+    "words": [
+      {"word": "高い", "reading": "たかい", "meaning": "비싸다, 높다", "note": null},
+      {"word": "また", "reading": "また", "meaning": "또, 다시", "note": null},
+      {"word": "来る", "reading": "くる", "meaning": "오다", "note": null}
+    ],
+    "grammarIds": ["sentence-ne", "masu"],
+    "nuance": "가게를 나갈 때 쓰는 예의 바른 탈출 문장이에요. また来ます는 '또 올게요'지만 다시 안 올 때 더 많이 써요.",
+    "memoTip": "来る → 来ます(きます). 읽기가 바뀌어요.",
+    "examples": [
+      {
+        "tokens": [{"t": "おいしいですね。"}],
+        "korean": "맛있네요."
+      },
+      {
+        "tokens": [{"t": "明日", "r": "あした"}, {"t": "また"}, {"t": "来", "r": "き"}, {"t": "ます。"}],
+        "korean": "내일 또 올게요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
+  },
+  {
+    "id": "life-108",
+    "tokens": [{"t": "今日", "r": "きょう"}, {"t": "は、"}, {"t": "早", "r": "はや"}, {"t": "く"}, {"t": "寝", "r": "ね"}, {"t": "ます。"}],
+    "korean": "오늘은 일찍 잘 거예요.",
+    "literal": null,
+    "punchline": "그리고 새벽 2시까지 폰을 봄.",
+    "category": "life",
+    "jlpt": "N5",
+    "politeness": "polite",
+    "usageNote": null,
+    "keywords": ["잠", "다짐"],
+    "words": [
+      {"word": "今日", "reading": "きょう", "meaning": "오늘", "note": null},
+      {"word": "早く", "reading": "はやく", "meaning": "일찍, 빨리", "note": null},
+      {"word": "寝る", "reading": "ねる", "meaning": "자다", "note": null}
+    ],
+    "grammarIds": ["masu"],
+    "nuance": "ます형은 '~합니다' 외에 '~할 거예요'라는 미래·다짐도 나타내요. 이 다짐이 지켜진 적은 거의 없어요.",
+    "memoTip": "早い(빠르다) → 早く(빨리, 일찍).",
+    "examples": [
+      {
+        "tokens": [{"t": "明日", "r": "あした"}, {"t": "、"}, {"t": "東京", "r": "とうきょう"}, {"t": "に"}, {"t": "行", "r": "い"}, {"t": "きます。"}],
+        "korean": "내일 도쿄에 갈 거예요."
+      },
+      {
+        "tokens": [{"t": "毎朝", "r": "まいあさ"}, {"t": "、"}, {"t": "七時", "r": "しちじ"}, {"t": "に"}, {"t": "起", "r": "お"}, {"t": "きます。"}],
+        "korean": "매일 아침 7시에 일어나요."
+      }
+    ],
+    "sourceType": "original",
+    "source": null,
+    "featuredDates": [],
+    "createdAt": "2026-10-04",
+    "status": "published"
   }
 ]

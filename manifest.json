@@ -5,8 +5,8 @@
   "minAppVersion": "1.0.0",
   "files": ["phrases.json", "grammar.json", "categories.json", "illustrations.json"],
   "sha256": {
-    "phrases.json": "3cd65327d10b9a1edbb30f00b22856774887ddfd67e99145447a7484d46483ee",
-    "grammar.json": "ae0904d4e6e531db2bc0ab282489bb63733212bfaf720682b16f0b4e34858788",
+    "phrases.json": "68d8d137c1aa8a4d927863bbc2c9c33945e715203b73f4b97b4de1fcfa071342",
+    "grammar.json": "28ec493da7f9d337331d4c8c469cca00199faf0a4b78d6996043cf1a837428dd",
     "categories.json": "80837b646fca06995e36587a608a93d3a9a8e7417eb3bcb54174465213a62177",
     "illustrations.json": "33d03885d000e2b0a7f1425c2668e2abb286c60e9bee286ac3977c311b7100e6"
   }
